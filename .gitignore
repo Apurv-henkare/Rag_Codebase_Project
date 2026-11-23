@@ -1,0 +1,23 @@
+# Secrets (never upload!)
+.env
+
+# Virtual environment (rebuilt with: pip install -r requirements.txt)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated data (rebuilt by our scripts)
+data/chunks/
+data/index/
+cache/
+
+# Old reference project (not part of this project)
+AIP_rag_reference/
+
+# Editor / OS files
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

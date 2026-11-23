@@ -1,0 +1,26 @@
+# ---- LangChain (framework that connects the LLM, prompts, documents, search) ----
+langchain==1.5.2
+langchain-core==1.8.4
+langchain-community==0.4.2         # FAISS + BM25Retriever wrappers (being sunset; may drop in Phase 3)
+langchain-text-splitters==1.1.3    # RecursiveCharacterTextSplitter (docs chunking)
+langchain-google-genai==4.5.2      # Gemini chat model
+langchain-huggingface==1.2.3       # HuggingFaceEmbeddings (local embedding model)
+
+# ---- Search ----
+sentence-transformers==6.3.0       # runs the local embedding model (all-MiniLM-L6-v2)
+torch==2.15.0                      # installed by sentence-transformers; pinned because it is large and version-sensitive
+faiss-cpu==1.16.0                  # dense vector search
+rank-bm25==0.2.2                   # BM25 word search
+
+# ---- Data / parsing ----
+pydantic==2.14.4                   # QueryPlan and other schemas (checks the shape of data)
+pymupdf==2.1                       # read PDF text (use "import pymupdf", not "import fitz")
+luaparser==4.2.0                   # parse Lua code into an AST (code chunking + syntax check)
+
+# ---- Config ----
+python-dotenv==1.2.4               # read GEMINI_API_KEY from .env
+
+# ---- App (Phase 7) ----
+streamlit==1.67.0                  # chat web page
+
+# Tested with Python 3.14.6 on Windows.

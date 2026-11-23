@@ -1,0 +1,137 @@
+[
+  {
+    "id": "c1",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 2,
+    "facts_total": 2,
+    "passed": true,
+    "answer": "When the ball moves horizontally, the engine function `self.tileMap:sweepX` detects collisions with walls [1]. If a collision occurs, the ball's horizontal velocity (`self.dx`) is checked against `WALL_BOUNCE_MIN` [1].\n\nIf the velocity is greater than this threshold, the ball bounces off the wall by reversing its direction and multiplying it by `WALL_RESTITUTION` [1]. If the velocity is below the threshold, the ball's horizontal velocity is set to zero [1]. Additionally, if the ball is carrying a key, it can open locked doors upon collision, which prevents the wall hit from triggering [1]."
+  },
+  {
+    "id": "c3",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 1,
+    "facts_total": 2,
+    "passed": false,
+    "answer": "The ball pops when it falls out of the level in the following locations:\n\n*   **src/Ball.lua**: The file header notes that falling out of the level causes the ball to pop [3].\n*   **src/states/entity/ball/BallPopState.lua**: The file header notes that falling out of the level causes the ball to burst into pieces, after which `ball.onPop()` (a game function) is called to restart the level [4]."
+  },
+  {
+    "id": "c4",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 2,
+    "facts_total": 3,
+    "passed": false,
+    "answer": "To make the ball bigger, it costs a specific amount of air defined by the constant `GROW_COST` [1].\n\nGrowing fails in the following scenarios:\n*   If the player does not have enough air to cover the `GROW_COST` [1].\n*   If there is no physical room for the ball to expand into, as the game attempts to place the ball in its new size by checking for collisions with the `tileMap` [1]. If the ball cannot fit in its centered position or by being nudged left or right, the growth fails and a `failSound()` is triggered [1]."
+  },
+  {
+    "id": "c5",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 1,
+    "facts_total": 2,
+    "passed": false,
+    "answer": "The function `love.keyboard.wasPressed` is a game function that checks if a specific key was pressed by verifying if it exists in the `love.keyboard.keysPressed` table [1]. It returns a boolean value indicating whether the key state is true [1]."
+  },
+  {
+    "id": "c7",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 2,
+    "facts_total": 2,
+    "passed": true,
+    "answer": "The constant that allows the ball to jump just after rolling off an edge is `COYOTE_TIME` [4].\n\n**Code locations:**\n*   **`src/constants.lua`**: Defines the `COYOTE_TIME` constant as 0.08 [4].\n*   **`src/Ball.lua`**: Initializes the `coyote` variable [2].\n*   **`src/states/entity/ball/BallAirState.lua`**: Uses `b.coyote` to check if a late jump is allowed after leaving the ground [1].\n*   **`src/states/entity/ball/BallGroundState.lua`**: Sets `b.coyote` to `COYOTE_TIME` when the ball rolls off an edge [3].\n*   **`src/Ball.lua`**: Resets `self.coyote` to 0 inside the `Ball:jump` game function [5]."
+  },
+  {
+    "id": "d1",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 3,
+    "facts_total": 3,
+    "passed": true,
+    "answer": "`love.audio.newSource` is an engine function used to create a new Source that can play specified audio [2][3][5].\n\nDepending on the version of LÖVE and the input provided, the function accepts several types of arguments:\n*   It can take a `filename` (string) and a `SourceType` (streaming or static) [1].\n*   It can take a `File` object and a `SourceType` [3].\n*   It can take `FileData` and a `SourceType` [2][4].\n*   It can take a `Decoder` and a `SourceType` [3].\n*   It can take `SoundData`, which results in a \"static\" SourceType [2]."
+  },
+  {
+    "id": "d3",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 3,
+    "facts_total": 3,
+    "passed": true,
+    "answer": "The `love.keypressed` function is an engine function that receives different arguments depending on the version of the engine being used:\n\n*   In versions 0.10.0 and later, it receives three arguments: `key` (a `KeyConstant`), `scancode` (a `Scancode`), and `isrepeat` (a `boolean`) [2].\n*   In versions 0.9.0 through 0.9.2, it receives two arguments: `key` (a `KeyConstant`) and `isrepeat` (a `boolean`) [3].\n*   In versions removed prior to 0.9.0, it receives two arguments: `key` (a `KeyConstant`) and `unicode` (a `number`) [3]."
+  },
+  {
+    "id": "d5",
+    "type_ok": false,
+    "reliable": true,
+    "facts": 0,
+    "facts_total": 2,
+    "passed": false,
+    "answer": "I only write code for the Inflate project."
+  },
+  {
+    "id": "b1",
+    "type_ok": false,
+    "reliable": true,
+    "facts": 1,
+    "facts_total": 4,
+    "passed": false,
+    "answer": "`love.graphics.rectangle` is an engine function used to draw a rectangle on the screen by specifying its mode, position, and dimensions [4][5]. The game uses this function extensively to render various background elements like birds, snow, sparkles, and fireflies, as well as to draw platform rails and status lights [1][2][3]."
+  },
+  {
+    "id": "b3",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 2,
+    "facts_total": 3,
+    "passed": false,
+    "answer": "To play the bounce sound, the game calls `Ball:playBounce`, which retrieves the sound from `gSounds['bounce']` [1]. It then stops the sound, sets its pitch based on the ball's size, sets the volume, and finally calls the `play()` method on the sound object [1].\n\nRegarding `Source:play`, this is an engine function [6]. Depending on the version of LÖVE used, it may return nothing or a boolean value indicating whether the sound successfully started playing [6]."
+  },
+  {
+    "id": "w1",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 1,
+    "facts_total": 1,
+    "passed": true,
+    "answer": "## How it works now\nCurrently, the `Ball:moveX` function handles horizontal movement and wall collisions [4]. When the ball hits a wall (`hitWall` is true), it checks if the absolute value of its horizontal velocity (`mabs(self.dx)`) exceeds `WALL_BOUNCE_MIN` [4]. If it does, the ball's velocity is reversed and multiplied by `WALL_RESTITUTION` [4]. There is no sound playback logic currently implemented within `Ball:moveX` [4]. The `Ball:playBounce` function exists as a game function to handle bounce sound playback, including setting pitch based on the ball's size and setting volume [2].\n\n## New code\n```lua\nfunction Ball:moveX(dt)\n    local newX, tile = self.tileMap:sweepX(self.x, self.y, self.width, self.height, (self.dx + self.windX) * dt)\n\n    if tile and self:isBig() and mabs(self.dx) > BREAK_SPEED then\n        local frontX = self.dx > 0 and (newX + self.width) or (newX - 1)\n        if self.level:breakTilesInBox(frontX, self.y, 1, self.height) > 0 then\n            self.dx = self.dx * 0.8\n            newX, tile = self.tileMap:sweepX(self.x, self.y, self.width, self.height, (self.dx + self.windX) * dt)\n        end\n    end\n    local hitWall = tile ~= nil\n\n    if tile and tile.door and self.level:tryOpenDoor(tile) then\n        hitWall = false\n    end\n\n    local maxX = self.level.width - self.width\n    if newX < 0 then newX, hitWall = 0, true\n    elseif newX > maxX then newX, hitWall = maxX, true end\n    self.x = newX\n\n    if hitWall then\n        if mabs(self.dx) > WALL_BOUNCE_MIN then\n            self.dx = -self.dx * WALL_RESTITUTION\n            self:playBounce(mmin(1, mabs(self.dx) / 400))\n        else\n            self.dx = 0\n        end\n    end\nend\n```"
+  },
+  {
+    "id": "w2",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 1,
+    "facts_total": 2,
+    "passed": false,
+    "answer": "## How it works now\n\nSpike damage is defined by the constant `SPIKE_DAMAGE`, which is set to 25 [2]. The game identifies the specific area of a spike tile that causes damage using the `SPIKE_BOX` constant, which defines the hit area as `{2, 9, 12, 7}` [1].\n\n## New code\n\nI am assuming the damage logic is handled within a function that checks for collisions with spikes, such as `handleSpikeCollision`. To implement a shield that halves the damage, we check for a `shield` property on the player object.\n\n```lua\nfunction handleSpikeCollision(player)\n    local damage = SPIKE_DAMAGE\n    \n    -- If the player has a shield, halve the damage\n    if player.shield then\n        damage = damage / 2\n    end\n    \n    player.air = player.air - damage\n    -- Additional logic for invulnerability and bouncing would follow\nend\n```"
+  },
+  {
+    "id": "o1",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 0,
+    "facts_total": 0,
+    "passed": true,
+    "answer": "I only write code for the Inflate project."
+  },
+  {
+    "id": "o3",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 1,
+    "facts_total": 1,
+    "passed": true,
+    "answer": "When the ball's air reaches zero or it falls out of the level, the `Ball:pop` function is triggered [1][2]. This function first checks if the ball is already dead, and if not, it sets the ball's air to zero and transitions the entity into the 'pop' state [1].\n\nOnce in the `BallPopState`, the ball bursts into pieces [3]. The state initializes a timer [5], which increments during the update loop [4]. Once this timer reaches `POP_RESTART_TIME`, the state calls `ball.onPop()`, which triggers a restart of the level [3][4].\n\nSkipped: make me a Pong game. I only write code for the Inflate project."
+  },
+  {
+    "id": "h1",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 0,
+    "facts_total": 0,
+    "passed": true,
+    "answer": "Ask me about the Inflate game code or the LÖVE docs."
+  }
+]

@@ -1,0 +1,7 @@
+[theme]
+baseFontSize = 18                    # default is 14: bigger text everywhere
+base = "dark"                        # dark page instead of white
+primaryColor = "#FF7A59"             # buttons, links, chat-box border (balloon orange)
+backgroundColor = "#14171F"          # main page
+secondaryBackgroundColor = "#1E2330" # sidebar, code boxes, expanders, chat input
+textColor = "#E8EAF0"                # soft white text (easier on the eyes than pure white)

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c2",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 0,
+    "facts_total": 3,
+    "passed": false,
+    "answer": "I couldn't find that."
+  },
+  {
+    "id": "c6",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 2,
+    "facts_total": 2,
+    "passed": true,
+    "answer": "The game begins at the `StartState`, which displays the title screen featuring a scrolling background, a bouncing ball, a logo, and a main menu [1].\n\nTo transition to gameplay, the user navigates through the game states managed by the state machine. While the sources do not explicitly detail the menu selection process from the `StartState`, the `PauseState` demonstrates that the game uses `gStateMachine:change` to switch between states, such as changing to the 'play' state to start a level [4]. The `PlayState` then runs the level, managing the ball, camera, HUD, and interactions [5]."
+  },
+  {
+    "id": "c8",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 0,
+    "facts_total": 0,
+    "passed": true,
+    "answer": "I couldn't find that."
+  },
+  {
+    "id": "d2",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 3,
+    "facts_total": 3,
+    "passed": true,
+    "answer": "In the current version of the engine, `love.graphics.setColor` (an engine function) uses color component values within the range of 0 to 1 [2]. In versions prior to 11.0, these values were within the range of 0 to 255 [2].\n\nAdditionally, developers can use `love.math.colorFromBytes` (an engine function) to specify color components in the range of 0 to 255 [4]."
+  },
+  {
+    "id": "d4",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 3,
+    "facts_total": 3,
+    "passed": true,
+    "answer": "A Quad is a quadrilateral with texture coordinate information used to display a specific portion of a texture rather than the entire image [3]. This is particularly useful for working with sprite sheets and texture atlases, where multiple sprites or animation frames are stored within a single large texture [3][5].\n\nTo use a Quad, you create it using the engine function `love.graphics.newQuad` [3][5]. Once created, you can define or retrieve the specific viewport coordinates that determine which part of the texture is displayed [1][4]. You can also retrieve the original texture dimensions that were specified when the Quad was first created [2]."
+  },
+  {
+    "id": "b2",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 2,
+    "facts_total": 2,
+    "passed": true,
+    "answer": "`love.graphics.newImage` is an engine function that creates a new Image object from a file path, `FileData`, `ImageData`, or `CompressedImageData` [4][5]. It can also optionally generate or specify mipmaps for the image [4].\n\nIn the game, images are created in the following locations:\n*   **`src/art/Background.lua`**: The `toImage` function creates an image from data and sets its filter and wrap modes [1].\n*   **`src/art/PixelFont.lua`**: The `PixelFont.makeLogo` function creates an image from data and sets its filter [2].\n*   **`src/art/SpriteBuilder.lua`**: The `SpriteBuilder.build` function creates `ImageData`, converts it into an image, sets its filter, and generates quads for the frames [3].\n\nAll three game files use `love.graphics.newImage`, which is an engine function [1][2][3]."
+  },
+  {
+    "id": "w3",
+    "type_ok": true,
+    "reliable": false,
+    "facts": 0,
+    "facts_total": 2,
+    "passed": false,
+    "answer": "I couldn't answer this reliably."
+  },
+  {
+    "id": "o2",
+    "type_ok": true,
+    "reliable": true,
+    "facts": 0,
+    "facts_total": 0,
+    "passed": true,
+    "answer": "I only write code for the Inflate project."
+  }
+]
