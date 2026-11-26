@@ -1,0 +1,715 @@
+store_id,title,lang,reviews_counted,days_covered,reviews_per_day,avg_stars
+com.robtopx.geometryjumplite,Geometry Dash Lite,en,1000,29.632,33.75,4.26
+com.robtopx.geometryjumplite,Geometry Dash Lite,es,1000,23.68,42.23,4.4
+com.robtopx.geometryjumplite,Geometry Dash Lite,pt,380,30.0,12.67,4.44
+com.robtopx.geometryjumplite,Geometry Dash Lite,hi,2,30.0,0.07,5.0
+com.robtopx.geometryjumplite,Geometry Dash Lite,id,208,30.0,6.93,4.07
+com.robtopx.geometryjumplite,Geometry Dash Lite,ru,1000,27.138,36.85,3.79
+com.robtopx.geometryjumplite,Geometry Dash Lite,tr,127,30.0,4.23,4.18
+com.robtopx.geometryjumplite,Geometry Dash Lite,fr,96,30.0,3.2,4.43
+com.robtopx.geometryjumplite,Geometry Dash Lite,de,29,30.0,0.97,3.66
+com.robtopx.geometryjumplite,Geometry Dash Lite,ar,66,30.0,2.2,4.45
+com.robtopx.geometryjumplite,Geometry Dash Lite,vi,4,30.0,0.13,3.5
+com.robtopx.geometryjumplite,Geometry Dash Lite,ja,12,30.0,0.4,4.33
+com.robtopx.geometryjumplite,Geometry Dash Lite,ko,50,30.0,1.67,3.86
+com.robtopx.geometryjumplite,Geometry Dash Lite,th,18,30.0,0.6,4.17
+com.h8games.helixjump,Helix Jump,en,27,30.0,0.9,1.59
+com.h8games.helixjump,Helix Jump,es,12,30.0,0.4,2.0
+com.h8games.helixjump,Helix Jump,pt,27,30.0,0.9,2.63
+com.h8games.helixjump,Helix Jump,hi,0,30.0,0.0,
+com.h8games.helixjump,Helix Jump,id,4,30.0,0.13,1.0
+com.h8games.helixjump,Helix Jump,ru,8,30.0,0.27,1.12
+com.h8games.helixjump,Helix Jump,tr,12,30.0,0.4,1.5
+com.h8games.helixjump,Helix Jump,fr,6,30.0,0.2,2.5
+com.h8games.helixjump,Helix Jump,de,2,30.0,0.07,1.0
+com.h8games.helixjump,Helix Jump,ar,3,30.0,0.1,2.33
+com.h8games.helixjump,Helix Jump,vi,1,30.0,0.03,1.0
+com.h8games.helixjump,Helix Jump,ja,1,30.0,0.03,1.0
+com.h8games.helixjump,Helix Jump,ko,0,30.0,0.0,
+com.h8games.helixjump,Helix Jump,th,0,30.0,0.0,
+com.FDGEntertainment.redball4.gp,Red Ball 4,en,495,30.0,16.5,4.53
+com.FDGEntertainment.redball4.gp,Red Ball 4,es,793,30.0,26.43,4.63
+com.FDGEntertainment.redball4.gp,Red Ball 4,pt,368,30.0,12.27,4.66
+com.FDGEntertainment.redball4.gp,Red Ball 4,hi,1,30.0,0.03,4.0
+com.FDGEntertainment.redball4.gp,Red Ball 4,id,31,30.0,1.03,4.35
+com.FDGEntertainment.redball4.gp,Red Ball 4,ru,683,30.0,22.77,4.57
+com.FDGEntertainment.redball4.gp,Red Ball 4,tr,480,30.0,16.0,4.68
+com.FDGEntertainment.redball4.gp,Red Ball 4,fr,55,30.0,1.83,4.33
+com.FDGEntertainment.redball4.gp,Red Ball 4,de,11,30.0,0.37,4.64
+com.FDGEntertainment.redball4.gp,Red Ball 4,ar,167,30.0,5.57,4.6
+com.FDGEntertainment.redball4.gp,Red Ball 4,vi,46,30.0,1.53,4.39
+com.FDGEntertainment.redball4.gp,Red Ball 4,ja,2,30.0,0.07,3.5
+com.FDGEntertainment.redball4.gp,Red Ball 4,ko,0,30.0,0.0,
+com.FDGEntertainment.redball4.gp,Red Ball 4,th,2,30.0,0.07,4.0
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,en,136,30.0,4.53,4.1
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,es,104,30.0,3.47,4.07
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,pt,54,30.0,1.8,4.19
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,hi,0,30.0,0.0,
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,id,51,30.0,1.7,4.43
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,ru,81,30.0,2.7,3.56
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,tr,16,30.0,0.53,3.75
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,fr,9,30.0,0.3,3.11
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,de,1,30.0,0.03,5.0
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,ar,70,30.0,2.33,4.47
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,vi,39,30.0,1.3,4.23
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,ja,0,30.0,0.0,
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,ko,0,30.0,0.0,
+com.amanotes.beathopper,Tiles Hop Music & Ball Game,th,3,30.0,0.1,5.0
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,en,237,30.0,7.9,4.79
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,es,328,30.0,10.93,4.73
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,pt,54,30.0,1.8,4.67
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,hi,0,30.0,0.0,
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,id,26,30.0,0.87,4.62
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,ru,108,30.0,3.6,4.38
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,tr,19,30.0,0.63,4.68
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,fr,22,30.0,0.73,4.32
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,de,9,30.0,0.3,4.78
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,ar,10,30.0,0.33,5.0
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,vi,3,30.0,0.1,5.0
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,ja,1,30.0,0.03,5.0
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,ko,5,30.0,0.17,4.8
+com.robtopx.geometrydashmeltdown,Geometry Dash Meltdown,th,2,30.0,0.07,5.0
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,en,5,30.0,0.17,3.0
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,es,1,30.0,0.03,5.0
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,pt,1,30.0,0.03,5.0
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,hi,0,30.0,0.0,
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,id,0,30.0,0.0,
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,ru,0,30.0,0.0,
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,tr,0,30.0,0.0,
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,fr,0,30.0,0.0,
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,de,0,30.0,0.0,
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,ar,0,30.0,0.0,
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,vi,1,30.0,0.03,5.0
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,ja,0,30.0,0.0,
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,ko,1,30.0,0.03,3.0
+com.bitmango.rolltheballunrollme,Roll the Ball® - slide puzzle,th,0,30.0,0.0,
+com.robtopx.geometrydashworld,Geometry Dash World,en,102,30.0,3.4,4.34
+com.robtopx.geometrydashworld,Geometry Dash World,es,139,30.0,4.63,4.28
+com.robtopx.geometrydashworld,Geometry Dash World,pt,41,30.0,1.37,4.37
+com.robtopx.geometrydashworld,Geometry Dash World,hi,0,30.0,0.0,
+com.robtopx.geometrydashworld,Geometry Dash World,id,16,30.0,0.53,3.44
+com.robtopx.geometrydashworld,Geometry Dash World,ru,123,30.0,4.1,3.89
+com.robtopx.geometrydashworld,Geometry Dash World,tr,11,30.0,0.37,3.82
+com.robtopx.geometrydashworld,Geometry Dash World,fr,7,30.0,0.23,5.0
+com.robtopx.geometrydashworld,Geometry Dash World,de,1,30.0,0.03,1.0
+com.robtopx.geometrydashworld,Geometry Dash World,ar,9,30.0,0.3,4.89
+com.robtopx.geometrydashworld,Geometry Dash World,vi,1,30.0,0.03,4.0
+com.robtopx.geometrydashworld,Geometry Dash World,ja,1,30.0,0.03,1.0
+com.robtopx.geometrydashworld,Geometry Dash World,ko,2,30.0,0.07,4.0
+com.robtopx.geometrydashworld,Geometry Dash World,th,1,30.0,0.03,1.0
+com.azurgames.stackball,Stack Ball - Crash Platforms,en,36,30.0,1.2,3.64
+com.azurgames.stackball,Stack Ball - Crash Platforms,es,17,30.0,0.57,2.76
+com.azurgames.stackball,Stack Ball - Crash Platforms,pt,18,30.0,0.6,3.83
+com.azurgames.stackball,Stack Ball - Crash Platforms,hi,1,30.0,0.03,5.0
+com.azurgames.stackball,Stack Ball - Crash Platforms,id,8,30.0,0.27,3.12
+com.azurgames.stackball,Stack Ball - Crash Platforms,ru,5,30.0,0.17,3.4
+com.azurgames.stackball,Stack Ball - Crash Platforms,tr,3,30.0,0.1,4.33
+com.azurgames.stackball,Stack Ball - Crash Platforms,fr,1,30.0,0.03,2.0
+com.azurgames.stackball,Stack Ball - Crash Platforms,de,0,30.0,0.0,
+com.azurgames.stackball,Stack Ball - Crash Platforms,ar,15,30.0,0.5,4.33
+com.azurgames.stackball,Stack Ball - Crash Platforms,vi,2,30.0,0.07,5.0
+com.azurgames.stackball,Stack Ball - Crash Platforms,ja,0,30.0,0.0,
+com.azurgames.stackball,Stack Ball - Crash Platforms,ko,0,30.0,0.0,
+com.azurgames.stackball,Stack Ball - Crash Platforms,th,2,30.0,0.07,4.0
+com.robtopx.geometryjump,Geometry Dash,en,719,30.0,23.97,4.68
+com.robtopx.geometryjump,Geometry Dash,es,728,30.0,24.27,4.68
+com.robtopx.geometryjump,Geometry Dash,pt,136,30.0,4.53,4.57
+com.robtopx.geometryjump,Geometry Dash,hi,0,30.0,0.0,
+com.robtopx.geometryjump,Geometry Dash,id,50,30.0,1.67,4.58
+com.robtopx.geometryjump,Geometry Dash,ru,45,30.0,1.5,3.78
+com.robtopx.geometryjump,Geometry Dash,tr,48,30.0,1.6,4.52
+com.robtopx.geometryjump,Geometry Dash,fr,49,30.0,1.63,4.65
+com.robtopx.geometryjump,Geometry Dash,de,29,30.0,0.97,4.31
+com.robtopx.geometryjump,Geometry Dash,ar,6,30.0,0.2,5.0
+com.robtopx.geometryjump,Geometry Dash,vi,0,30.0,0.0,
+com.robtopx.geometryjump,Geometry Dash,ja,7,30.0,0.23,4.29
+com.robtopx.geometryjump,Geometry Dash,ko,33,30.0,1.1,4.45
+com.robtopx.geometryjump,Geometry Dash,th,8,30.0,0.27,5.0
+com.pronetis.ironball2,Going Balls,en,181,30.0,6.03,3.79
+com.pronetis.ironball2,Going Balls,es,59,30.0,1.97,3.47
+com.pronetis.ironball2,Going Balls,pt,34,30.0,1.13,3.85
+com.pronetis.ironball2,Going Balls,hi,1,30.0,0.03,5.0
+com.pronetis.ironball2,Going Balls,id,17,30.0,0.57,4.76
+com.pronetis.ironball2,Going Balls,ru,100,30.0,3.33,4.04
+com.pronetis.ironball2,Going Balls,tr,46,30.0,1.53,4.24
+com.pronetis.ironball2,Going Balls,fr,9,30.0,0.3,3.22
+com.pronetis.ironball2,Going Balls,de,5,30.0,0.17,2.6
+com.pronetis.ironball2,Going Balls,ar,68,30.0,2.27,4.09
+com.pronetis.ironball2,Going Balls,vi,14,30.0,0.47,3.86
+com.pronetis.ironball2,Going Balls,ja,6,30.0,0.2,1.33
+com.pronetis.ironball2,Going Balls,ko,4,30.0,0.13,2.25
+com.pronetis.ironball2,Going Balls,th,1,30.0,0.03,4.0
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,en,105,30.0,3.5,4.6
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,es,182,30.0,6.07,4.59
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,pt,30,30.0,1.0,4.43
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,hi,0,30.0,0.0,
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,id,20,30.0,0.67,4.0
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,ru,112,30.0,3.73,4.01
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,tr,12,30.0,0.4,3.92
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,fr,10,30.0,0.33,3.8
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,de,2,30.0,0.07,4.0
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,ar,8,30.0,0.27,4.25
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,vi,1,30.0,0.03,5.0
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,ja,0,30.0,0.0,
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,ko,2,30.0,0.07,5.0
+com.robtopx.geometrydashsubzero,Geometry Dash SubZero,th,1,30.0,0.03,1.0
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,en,12,30.0,0.4,4.58
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,es,15,30.0,0.5,4.27
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,pt,13,30.0,0.43,3.92
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,hi,0,30.0,0.0,
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,id,2,30.0,0.07,4.5
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,ru,4,30.0,0.13,4.0
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,tr,0,30.0,0.0,
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,fr,2,30.0,0.07,5.0
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,de,1,30.0,0.03,4.0
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,ar,6,30.0,0.2,4.17
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,vi,5,30.0,0.17,5.0
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,ja,0,30.0,0.0,
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,ko,1,30.0,0.03,1.0
+com.amanotes.pamadancingroad,Dancing Road Color Balls Match,th,0,30.0,0.0,
+com.mobirix.swipebrick2,Bricks Breaker Quest,en,50,30.0,1.67,3.98
+com.mobirix.swipebrick2,Bricks Breaker Quest,es,20,30.0,0.67,4.85
+com.mobirix.swipebrick2,Bricks Breaker Quest,pt,2,30.0,0.07,5.0
+com.mobirix.swipebrick2,Bricks Breaker Quest,hi,0,30.0,0.0,
+com.mobirix.swipebrick2,Bricks Breaker Quest,id,2,30.0,0.07,5.0
+com.mobirix.swipebrick2,Bricks Breaker Quest,ru,7,30.0,0.23,3.29
+com.mobirix.swipebrick2,Bricks Breaker Quest,tr,12,30.0,0.4,3.0
+com.mobirix.swipebrick2,Bricks Breaker Quest,fr,2,30.0,0.07,3.0
+com.mobirix.swipebrick2,Bricks Breaker Quest,de,3,30.0,0.1,2.33
+com.mobirix.swipebrick2,Bricks Breaker Quest,ar,37,30.0,1.23,4.68
+com.mobirix.swipebrick2,Bricks Breaker Quest,vi,1,30.0,0.03,3.0
+com.mobirix.swipebrick2,Bricks Breaker Quest,ja,0,30.0,0.0,
+com.mobirix.swipebrick2,Bricks Breaker Quest,ko,9,30.0,0.3,3.67
+com.mobirix.swipebrick2,Bricks Breaker Quest,th,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,en,5,30.0,0.17,3.4
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,es,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,pt,2,30.0,0.07,1.0
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,hi,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,id,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,ru,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,tr,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,fr,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,de,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,ar,2,30.0,0.07,5.0
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,vi,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,ja,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,ko,0,30.0,0.0,
+com.iposedon.bricksbreakerballs,Bricks Ball Crusher,th,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,en,1,30.0,0.03,5.0
+com.easygame.marblelegend,Marble Legend,es,3,30.0,0.1,4.67
+com.easygame.marblelegend,Marble Legend,pt,3,30.0,0.1,4.0
+com.easygame.marblelegend,Marble Legend,hi,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,id,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,ru,5,30.0,0.17,1.6
+com.easygame.marblelegend,Marble Legend,tr,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,fr,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,de,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,ar,1,30.0,0.03,1.0
+com.easygame.marblelegend,Marble Legend,vi,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,ja,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,ko,0,30.0,0.0,
+com.easygame.marblelegend,Marble Legend,th,0,30.0,0.0,
+com.cooyostudio.marble.blast,Jungle Marble Blast,en,26,30.0,0.87,4.38
+com.cooyostudio.marble.blast,Jungle Marble Blast,es,4,30.0,0.13,5.0
+com.cooyostudio.marble.blast,Jungle Marble Blast,pt,3,30.0,0.1,5.0
+com.cooyostudio.marble.blast,Jungle Marble Blast,hi,0,30.0,0.0,
+com.cooyostudio.marble.blast,Jungle Marble Blast,id,14,30.0,0.47,4.71
+com.cooyostudio.marble.blast,Jungle Marble Blast,ru,2,30.0,0.07,4.5
+com.cooyostudio.marble.blast,Jungle Marble Blast,tr,1,30.0,0.03,5.0
+com.cooyostudio.marble.blast,Jungle Marble Blast,fr,4,30.0,0.13,5.0
+com.cooyostudio.marble.blast,Jungle Marble Blast,de,0,30.0,0.0,
+com.cooyostudio.marble.blast,Jungle Marble Blast,ar,3,30.0,0.1,3.0
+com.cooyostudio.marble.blast,Jungle Marble Blast,vi,1,30.0,0.03,5.0
+com.cooyostudio.marble.blast,Jungle Marble Blast,ja,0,30.0,0.0,
+com.cooyostudio.marble.blast,Jungle Marble Blast,ko,0,30.0,0.0,
+com.cooyostudio.marble.blast,Jungle Marble Blast,th,3,30.0,0.1,4.33
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,en,2,30.0,0.07,5.0
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,es,3,30.0,0.1,5.0
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,pt,0,30.0,0.0,
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,hi,0,30.0,0.0,
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,id,2,30.0,0.07,5.0
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,ru,0,30.0,0.0,
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,tr,0,30.0,0.0,
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,fr,1,30.0,0.03,4.0
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,de,0,30.0,0.0,
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,ar,3,30.0,0.1,5.0
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,vi,0,30.0,0.0,
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,ja,0,30.0,0.0,
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,ko,0,30.0,0.0,
+com.marbleblast.zuma.marblegame,Marble Puzzle Shoot,th,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,en,2,30.0,0.07,2.0
+com.raongames.bouneball,Bouncy Ball : Addictive Game,es,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,pt,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,hi,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,id,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,ru,2,30.0,0.07,5.0
+com.raongames.bouneball,Bouncy Ball : Addictive Game,tr,1,30.0,0.03,5.0
+com.raongames.bouneball,Bouncy Ball : Addictive Game,fr,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,de,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,ar,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,vi,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,ja,0,30.0,0.0,
+com.raongames.bouneball,Bouncy Ball : Addictive Game,ko,13,30.0,0.43,4.0
+com.raongames.bouneball,Bouncy Ball : Addictive Game,th,0,30.0,0.0,
+com.zuma.deluxe.marble.puzzle,Marble Master,en,14,30.0,0.47,4.07
+com.zuma.deluxe.marble.puzzle,Marble Master,es,6,30.0,0.2,4.17
+com.zuma.deluxe.marble.puzzle,Marble Master,pt,4,30.0,0.13,3.5
+com.zuma.deluxe.marble.puzzle,Marble Master,hi,0,30.0,0.0,
+com.zuma.deluxe.marble.puzzle,Marble Master,id,2,30.0,0.07,5.0
+com.zuma.deluxe.marble.puzzle,Marble Master,ru,3,30.0,0.1,1.33
+com.zuma.deluxe.marble.puzzle,Marble Master,tr,2,30.0,0.07,4.0
+com.zuma.deluxe.marble.puzzle,Marble Master,fr,4,30.0,0.13,4.0
+com.zuma.deluxe.marble.puzzle,Marble Master,de,2,30.0,0.07,4.5
+com.zuma.deluxe.marble.puzzle,Marble Master,ar,8,30.0,0.27,4.5
+com.zuma.deluxe.marble.puzzle,Marble Master,vi,0,30.0,0.0,
+com.zuma.deluxe.marble.puzzle,Marble Master,ja,0,30.0,0.0,
+com.zuma.deluxe.marble.puzzle,Marble Master,ko,0,30.0,0.0,
+com.zuma.deluxe.marble.puzzle,Marble Master,th,2,30.0,0.07,5.0
+com.ea.game.pegglex_row,Peggle Blast,en,16,30.0,0.53,1.88
+com.ea.game.pegglex_row,Peggle Blast,es,7,30.0,0.23,3.71
+com.ea.game.pegglex_row,Peggle Blast,pt,0,30.0,0.0,
+com.ea.game.pegglex_row,Peggle Blast,hi,0,30.0,0.0,
+com.ea.game.pegglex_row,Peggle Blast,id,0,30.0,0.0,
+com.ea.game.pegglex_row,Peggle Blast,ru,1,30.0,0.03,5.0
+com.ea.game.pegglex_row,Peggle Blast,tr,1,30.0,0.03,5.0
+com.ea.game.pegglex_row,Peggle Blast,fr,3,30.0,0.1,2.67
+com.ea.game.pegglex_row,Peggle Blast,de,1,30.0,0.03,1.0
+com.ea.game.pegglex_row,Peggle Blast,ar,0,30.0,0.0,
+com.ea.game.pegglex_row,Peggle Blast,vi,0,30.0,0.0,
+com.ea.game.pegglex_row,Peggle Blast,ja,0,30.0,0.0,
+com.ea.game.pegglex_row,Peggle Blast,ko,0,30.0,0.0,
+com.ea.game.pegglex_row,Peggle Blast,th,0,30.0,0.0,
+com.core.biggame.marble.android,Marble Match Origin,en,49,30.0,1.63,4.35
+com.core.biggame.marble.android,Marble Match Origin,es,18,30.0,0.6,4.17
+com.core.biggame.marble.android,Marble Match Origin,pt,8,30.0,0.27,4.25
+com.core.biggame.marble.android,Marble Match Origin,hi,0,30.0,0.0,
+com.core.biggame.marble.android,Marble Match Origin,id,13,30.0,0.43,4.85
+com.core.biggame.marble.android,Marble Match Origin,ru,18,30.0,0.6,2.22
+com.core.biggame.marble.android,Marble Match Origin,tr,3,30.0,0.1,3.67
+com.core.biggame.marble.android,Marble Match Origin,fr,17,30.0,0.57,4.24
+com.core.biggame.marble.android,Marble Match Origin,de,1,30.0,0.03,1.0
+com.core.biggame.marble.android,Marble Match Origin,ar,19,30.0,0.63,4.16
+com.core.biggame.marble.android,Marble Match Origin,vi,2,30.0,0.07,4.5
+com.core.biggame.marble.android,Marble Match Origin,ja,1,30.0,0.03,2.0
+com.core.biggame.marble.android,Marble Match Origin,ko,0,30.0,0.0,
+com.core.biggame.marble.android,Marble Match Origin,th,1,30.0,0.03,5.0
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,en,2,30.0,0.07,5.0
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,es,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,pt,1,30.0,0.03,5.0
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,hi,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,id,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,ru,2,30.0,0.07,3.0
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,tr,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,fr,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,de,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,ar,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,vi,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,ja,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,ko,0,30.0,0.0,
+com.TwoDesperados.WokaWoka,Marble Woka Woka: Jungle Blast,th,0,30.0,0.0,
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,en,38,30.0,1.27,4.34
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,es,16,30.0,0.53,4.75
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,pt,4,30.0,0.13,4.5
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,hi,0,30.0,0.0,
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,id,8,30.0,0.27,4.12
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,ru,24,30.0,0.8,3.12
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,tr,4,30.0,0.13,4.5
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,fr,7,30.0,0.23,4.57
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,de,2,30.0,0.07,5.0
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,ar,9,30.0,0.3,4.89
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,vi,0,30.0,0.0,
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,ja,1,30.0,0.03,2.0
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,ko,0,30.0,0.0,
+zuma.deluxe.marble.crush.match.free,Marble Crush - Shooter Master,th,2,30.0,0.07,5.0
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,en,2,30.0,0.07,1.5
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,es,1,30.0,0.03,5.0
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,pt,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,hi,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,id,1,30.0,0.03,1.0
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,ru,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,tr,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,fr,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,de,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,ar,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,vi,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,ja,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,ko,0,30.0,0.0,
+com.amanotes.pamarollingtiles2,Hop Ball 3D: Dancing Ball,th,0,30.0,0.0,
+com.gimica.ballbounce,Ball Bounce,en,121,30.0,4.03,4.25
+com.gimica.ballbounce,Ball Bounce,es,20,30.0,0.67,4.65
+com.gimica.ballbounce,Ball Bounce,pt,0,30.0,0.0,
+com.gimica.ballbounce,Ball Bounce,hi,0,30.0,0.0,
+com.gimica.ballbounce,Ball Bounce,id,0,30.0,0.0,
+com.gimica.ballbounce,Ball Bounce,ru,1,30.0,0.03,1.0
+com.gimica.ballbounce,Ball Bounce,tr,0,30.0,0.0,
+com.gimica.ballbounce,Ball Bounce,fr,3,30.0,0.1,5.0
+com.gimica.ballbounce,Ball Bounce,de,2,30.0,0.07,5.0
+com.gimica.ballbounce,Ball Bounce,ar,0,30.0,0.0,
+com.gimica.ballbounce,Ball Bounce,vi,0,30.0,0.0,
+com.gimica.ballbounce,Ball Bounce,ja,1,30.0,0.03,4.0
+com.gimica.ballbounce,Ball Bounce,ko,0,30.0,0.0,
+com.gimica.ballbounce,Ball Bounce,th,0,30.0,0.0,
+com.custom.goescape,Go Escape! - Casual Ball Games,en,31,30.0,1.03,4.68
+com.custom.goescape,Go Escape! - Casual Ball Games,es,8,30.0,0.27,4.5
+com.custom.goescape,Go Escape! - Casual Ball Games,pt,6,30.0,0.2,4.17
+com.custom.goescape,Go Escape! - Casual Ball Games,hi,0,30.0,0.0,
+com.custom.goescape,Go Escape! - Casual Ball Games,id,2,30.0,0.07,5.0
+com.custom.goescape,Go Escape! - Casual Ball Games,ru,26,30.0,0.87,3.58
+com.custom.goescape,Go Escape! - Casual Ball Games,tr,7,30.0,0.23,4.43
+com.custom.goescape,Go Escape! - Casual Ball Games,fr,4,30.0,0.13,5.0
+com.custom.goescape,Go Escape! - Casual Ball Games,de,2,30.0,0.07,3.5
+com.custom.goescape,Go Escape! - Casual Ball Games,ar,3,30.0,0.1,5.0
+com.custom.goescape,Go Escape! - Casual Ball Games,vi,3,30.0,0.1,4.33
+com.custom.goescape,Go Escape! - Casual Ball Games,ja,0,30.0,0.0,
+com.custom.goescape,Go Escape! - Casual Ball Games,ko,0,30.0,0.0,
+com.custom.goescape,Go Escape! - Casual Ball Games,th,0,30.0,0.0,
+com.habby.punball,PunBall,en,2,30.0,0.07,1.0
+com.habby.punball,PunBall,es,3,30.0,0.1,2.0
+com.habby.punball,PunBall,pt,0,30.0,0.0,
+com.habby.punball,PunBall,hi,0,30.0,0.0,
+com.habby.punball,PunBall,id,1,30.0,0.03,2.0
+com.habby.punball,PunBall,ru,1,30.0,0.03,5.0
+com.habby.punball,PunBall,tr,2,30.0,0.07,1.0
+com.habby.punball,PunBall,fr,0,30.0,0.0,
+com.habby.punball,PunBall,de,0,30.0,0.0,
+com.habby.punball,PunBall,ar,0,30.0,0.0,
+com.habby.punball,PunBall,vi,0,30.0,0.0,
+com.habby.punball,PunBall,ja,0,30.0,0.0,
+com.habby.punball,PunBall,ko,2,30.0,0.07,1.0
+com.habby.punball,PunBall,th,0,30.0,0.0,
+net.countrymania.brick,Brick Mania: Fun Arcade Game,en,31,30.0,1.03,4.32
+net.countrymania.brick,Brick Mania: Fun Arcade Game,es,4,30.0,0.13,4.0
+net.countrymania.brick,Brick Mania: Fun Arcade Game,pt,1,30.0,0.03,1.0
+net.countrymania.brick,Brick Mania: Fun Arcade Game,hi,0,30.0,0.0,
+net.countrymania.brick,Brick Mania: Fun Arcade Game,id,4,30.0,0.13,5.0
+net.countrymania.brick,Brick Mania: Fun Arcade Game,ru,1,30.0,0.03,5.0
+net.countrymania.brick,Brick Mania: Fun Arcade Game,tr,1,30.0,0.03,5.0
+net.countrymania.brick,Brick Mania: Fun Arcade Game,fr,0,30.0,0.0,
+net.countrymania.brick,Brick Mania: Fun Arcade Game,de,0,30.0,0.0,
+net.countrymania.brick,Brick Mania: Fun Arcade Game,ar,4,30.0,0.13,5.0
+net.countrymania.brick,Brick Mania: Fun Arcade Game,vi,1,30.0,0.03,5.0
+net.countrymania.brick,Brick Mania: Fun Arcade Game,ja,0,30.0,0.0,
+net.countrymania.brick,Brick Mania: Fun Arcade Game,ko,0,30.0,0.0,
+net.countrymania.brick,Brick Mania: Fun Arcade Game,th,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,en,1,30.0,0.03,5.0
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,es,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,pt,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,hi,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,id,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,ru,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,tr,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,fr,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,de,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,ar,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,vi,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,ja,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,ko,0,30.0,0.0,
+balls.arcademaker.bricks.breaker.brounce.ballz,Balls Bricks Breaker,th,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,en,16,30.0,0.53,3.88
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,es,2,30.0,0.07,3.0
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,pt,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,hi,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,id,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,ru,1,30.0,0.03,5.0
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,tr,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,fr,1,30.0,0.03,5.0
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,de,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,ar,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,vi,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,ja,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,ko,0,30.0,0.0,
+com.cooyostudio.marble.blast2,Jungle Marble Blast 2,th,1,30.0,0.03,5.0
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,en,23,30.0,0.77,4.04
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,es,2,30.0,0.07,5.0
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,pt,3,30.0,0.1,3.67
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,hi,0,30.0,0.0,
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,id,0,30.0,0.0,
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,ru,2,30.0,0.07,5.0
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,tr,1,30.0,0.03,1.0
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,fr,1,30.0,0.03,3.0
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,de,1,30.0,0.03,5.0
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,ar,0,30.0,0.0,
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,vi,0,30.0,0.0,
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,ja,2,30.0,0.07,2.5
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,ko,1,30.0,0.03,1.0
+com.puzzle1studio.go.brickoutshoottheball,Brick Out - Shoot the ball,th,0,30.0,0.0,
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,en,127,30.0,4.23,3.38
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,es,30,30.0,1.0,4.37
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,pt,11,30.0,0.37,2.18
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,hi,0,30.0,0.0,
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,id,4,30.0,0.13,5.0
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,ru,1,30.0,0.03,2.0
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,tr,9,30.0,0.3,2.78
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,fr,15,30.0,0.5,2.93
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,de,11,30.0,0.37,2.45
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,ar,7,30.0,0.23,4.86
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,vi,3,30.0,0.1,4.0
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,ja,2,30.0,0.07,5.0
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,ko,4,30.0,0.13,4.5
+com.easybrain.brick.balls.blast,Brick Blast - Brick Breaker,th,1,30.0,0.03,5.0
+com.atesgamestudio.rollance,Rollance : Adventure Balls,en,42,30.0,1.4,3.95
+com.atesgamestudio.rollance,Rollance : Adventure Balls,es,31,30.0,1.03,4.32
+com.atesgamestudio.rollance,Rollance : Adventure Balls,pt,15,30.0,0.5,4.27
+com.atesgamestudio.rollance,Rollance : Adventure Balls,hi,1,30.0,0.03,2.0
+com.atesgamestudio.rollance,Rollance : Adventure Balls,id,9,30.0,0.3,4.22
+com.atesgamestudio.rollance,Rollance : Adventure Balls,ru,39,30.0,1.3,3.62
+com.atesgamestudio.rollance,Rollance : Adventure Balls,tr,7,30.0,0.23,3.57
+com.atesgamestudio.rollance,Rollance : Adventure Balls,fr,8,30.0,0.27,4.62
+com.atesgamestudio.rollance,Rollance : Adventure Balls,de,2,30.0,0.07,4.5
+com.atesgamestudio.rollance,Rollance : Adventure Balls,ar,16,30.0,0.53,4.25
+com.atesgamestudio.rollance,Rollance : Adventure Balls,vi,2,30.0,0.07,3.0
+com.atesgamestudio.rollance,Rollance : Adventure Balls,ja,2,30.0,0.07,4.5
+com.atesgamestudio.rollance,Rollance : Adventure Balls,ko,1,30.0,0.03,1.0
+com.atesgamestudio.rollance,Rollance : Adventure Balls,th,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,en,6,30.0,0.2,5.0
+com.genico.bounce,Bounce Classic,es,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,pt,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,hi,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,id,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,ru,2,30.0,0.07,5.0
+com.genico.bounce,Bounce Classic,tr,1,30.0,0.03,5.0
+com.genico.bounce,Bounce Classic,fr,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,de,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,ar,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,vi,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,ja,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,ko,0,30.0,0.0,
+com.genico.bounce,Bounce Classic,th,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,en,6,30.0,0.2,5.0
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,es,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,pt,3,30.0,0.1,5.0
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,hi,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,id,1,30.0,0.03,1.0
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,ru,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,tr,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,fr,1,30.0,0.03,5.0
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,de,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,ar,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,vi,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,ja,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,ko,0,30.0,0.0,
+com.rhythmdance.taptile.rt,Rolling Twins: Music Ball Rush,th,0,30.0,0.0,
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,en,1,30.0,0.03,5.0
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,es,1,30.0,0.03,5.0
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,pt,2,30.0,0.07,3.5
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,hi,0,30.0,0.0,
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,id,0,30.0,0.0,
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,ru,0,30.0,0.0,
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,tr,1,30.0,0.03,5.0
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,fr,1,30.0,0.03,5.0
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,de,1,30.0,0.03,5.0
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,ar,0,30.0,0.0,
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,vi,0,30.0,0.0,
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,ja,0,30.0,0.0,
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,ko,3,30.0,0.1,5.0
+com.BrightGlade.Bouncefield,Bouncefield: Bricks Breaker,th,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,en,1,30.0,0.03,1.0
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,es,1,30.0,0.03,1.0
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,pt,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,hi,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,id,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,ru,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,tr,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,fr,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,de,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,ar,2,30.0,0.07,3.0
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,vi,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,ja,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,ko,0,30.0,0.0,
+balls.glow.bricks.breaker.brounce.ballz.puzzle.free,Bricks Breaker - Glow Balls,th,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,en,25,30.0,0.83,3.44
+com.peoplefun.bricksnballs,Bricks n Balls,es,1,30.0,0.03,5.0
+com.peoplefun.bricksnballs,Bricks n Balls,pt,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,hi,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,id,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,ru,2,30.0,0.07,4.0
+com.peoplefun.bricksnballs,Bricks n Balls,tr,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,fr,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,de,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,ar,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,vi,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,ja,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,ko,0,30.0,0.0,
+com.peoplefun.bricksnballs,Bricks n Balls,th,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,en,5,30.0,0.17,3.4
+com.dino.rolling.skyball.balance,Ball Game 3D,es,2,30.0,0.07,5.0
+com.dino.rolling.skyball.balance,Ball Game 3D,pt,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,hi,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,id,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,ru,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,tr,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,fr,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,de,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,ar,1,30.0,0.03,1.0
+com.dino.rolling.skyball.balance,Ball Game 3D,vi,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,ja,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,ko,0,30.0,0.0,
+com.dino.rolling.skyball.balance,Ball Game 3D,th,0,30.0,0.0,
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,en,16,30.0,0.53,4.25
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,es,6,30.0,0.2,5.0
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,pt,1,30.0,0.03,5.0
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,hi,0,30.0,0.0,
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,id,5,30.0,0.17,4.2
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,ru,11,30.0,0.37,2.45
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,tr,0,30.0,0.0,
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,fr,4,30.0,0.13,4.5
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,de,0,30.0,0.0,
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,ar,11,30.0,0.37,5.0
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,vi,0,30.0,0.0,
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,ja,0,30.0,0.0,
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,ko,1,30.0,0.03,5.0
+com.bricks.vs.balls.breaker,Bricks vs Balls Breaker,th,0,30.0,0.0,
+com.water.balls,Sand Balls - Puzzle Game,en,52,30.0,1.73,4.19
+com.water.balls,Sand Balls - Puzzle Game,es,7,30.0,0.23,4.0
+com.water.balls,Sand Balls - Puzzle Game,pt,10,30.0,0.33,4.6
+com.water.balls,Sand Balls - Puzzle Game,hi,0,30.0,0.0,
+com.water.balls,Sand Balls - Puzzle Game,id,2,30.0,0.07,5.0
+com.water.balls,Sand Balls - Puzzle Game,ru,3,30.0,0.1,1.33
+com.water.balls,Sand Balls - Puzzle Game,tr,4,30.0,0.13,4.75
+com.water.balls,Sand Balls - Puzzle Game,fr,4,30.0,0.13,2.25
+com.water.balls,Sand Balls - Puzzle Game,de,2,30.0,0.07,1.0
+com.water.balls,Sand Balls - Puzzle Game,ar,11,30.0,0.37,4.45
+com.water.balls,Sand Balls - Puzzle Game,vi,2,30.0,0.07,3.5
+com.water.balls,Sand Balls - Puzzle Game,ja,0,30.0,0.0,
+com.water.balls,Sand Balls - Puzzle Game,ko,0,30.0,0.0,
+com.water.balls,Sand Balls - Puzzle Game,th,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,en,3,30.0,0.1,2.33
+com.colorup.game,Color Bump 3D: ASMR ball game,es,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,pt,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,hi,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,id,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,ru,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,tr,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,fr,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,de,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,ar,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,vi,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,ja,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,ko,0,30.0,0.0,
+com.colorup.game,Color Bump 3D: ASMR ball game,th,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,en,6,30.0,0.2,4.33
+com.supertapx.lovedots,Love Balls,es,4,30.0,0.13,5.0
+com.supertapx.lovedots,Love Balls,pt,1,30.0,0.03,5.0
+com.supertapx.lovedots,Love Balls,hi,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,id,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,ru,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,tr,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,fr,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,de,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,ar,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,vi,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,ja,0,30.0,0.0,
+com.supertapx.lovedots,Love Balls,ko,1,30.0,0.03,4.0
+com.supertapx.lovedots,Love Balls,th,0,30.0,0.0,
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,en,30,30.0,1.0,4.1
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,es,31,30.0,1.03,4.61
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,pt,19,30.0,0.63,4.11
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,hi,0,30.0,0.0,
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,id,2,30.0,0.07,5.0
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,ru,22,30.0,0.73,4.05
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,tr,13,30.0,0.43,4.38
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,fr,4,30.0,0.13,2.75
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,de,2,30.0,0.07,4.5
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,ar,2,30.0,0.07,5.0
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,vi,1,30.0,0.03,4.0
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,ja,0,30.0,0.0,
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,ko,3,30.0,0.1,2.33
+com.playgendary.sportmasters,Bouncemasters: Penguin Games,th,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,en,11,30.0,0.37,3.91
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,es,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,pt,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,hi,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,id,1,30.0,0.03,5.0
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,ru,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,tr,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,fr,1,30.0,0.03,3.0
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,de,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,ar,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,vi,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,ja,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,ko,0,30.0,0.0,
+com.match3blaster.DropStackBallFall,Drop Stack Ball - Helix Crash,th,0,30.0,0.0,
+com.game.rope.and.balls,Rope And Balls,en,18,30.0,0.6,3.44
+com.game.rope.and.balls,Rope And Balls,es,5,30.0,0.17,5.0
+com.game.rope.and.balls,Rope And Balls,pt,6,30.0,0.2,2.83
+com.game.rope.and.balls,Rope And Balls,hi,0,30.0,0.0,
+com.game.rope.and.balls,Rope And Balls,id,0,30.0,0.0,
+com.game.rope.and.balls,Rope And Balls,ru,1,30.0,0.03,5.0
+com.game.rope.and.balls,Rope And Balls,tr,0,30.0,0.0,
+com.game.rope.and.balls,Rope And Balls,fr,1,30.0,0.03,1.0
+com.game.rope.and.balls,Rope And Balls,de,1,30.0,0.03,1.0
+com.game.rope.and.balls,Rope And Balls,ar,1,30.0,0.03,5.0
+com.game.rope.and.balls,Rope And Balls,vi,1,30.0,0.03,1.0
+com.game.rope.and.balls,Rope And Balls,ja,0,30.0,0.0,
+com.game.rope.and.balls,Rope And Balls,ko,0,30.0,0.0,
+com.game.rope.and.balls,Rope And Balls,th,1,30.0,0.03,5.0
+com.andregal.android.billard,Roll Balls into a hole,en,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,es,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,pt,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,hi,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,id,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,ru,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,tr,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,fr,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,de,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,ar,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,vi,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,ja,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,ko,0,30.0,0.0,
+com.andregal.android.billard,Roll Balls into a hole,th,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,en,1,30.0,0.03,5.0
+games.joker.drop.poly,Drop Balls - Plink Balls,es,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,pt,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,hi,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,id,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,ru,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,tr,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,fr,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,de,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,ar,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,vi,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,ja,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,ko,0,30.0,0.0,
+games.joker.drop.poly,Drop Balls - Plink Balls,th,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,en,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,es,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,pt,1,30.0,0.03,4.0
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,hi,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,id,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,ru,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,tr,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,fr,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,de,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,ar,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,vi,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,ja,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,ko,0,30.0,0.0,
+com.acoin.ballz.bricks.breaker,Bricks VS Balls - Brick Game,th,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,en,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,es,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,pt,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,hi,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,id,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,ru,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,tr,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,fr,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,de,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,ar,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,vi,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,ja,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,ko,0,30.0,0.0,
+com.dropping.ball.jungle.android,Dropping Ball,th,0,30.0,0.0,
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,en,4,30.0,0.13,3.5
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,es,7,30.0,0.23,5.0
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,pt,7,30.0,0.23,4.71
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,hi,0,30.0,0.0,
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,id,0,30.0,0.0,
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,ru,15,30.0,0.5,3.87
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,tr,8,30.0,0.27,5.0
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,fr,2,30.0,0.07,4.0
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,de,0,30.0,0.0,
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,ar,0,30.0,0.0,
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,vi,0,30.0,0.0,
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,ja,0,30.0,0.0,
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,ko,0,30.0,0.0,
+com.herocraft.game.free.redball3,Red Ball 3: Jump for Love! Bou,th,0,30.0,0.0,

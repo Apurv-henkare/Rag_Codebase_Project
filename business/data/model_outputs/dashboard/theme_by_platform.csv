@@ -1,0 +1,132 @@
+platform,theme,theme_group,mentions,positive,negative,neutral,share_positive,share_negative,share_of_mentions
+App Store (iOS),"Account, login and support",Bugs and tech,693.0,125.0,544.0,24.0,0.18,0.785,0.0042
+App Store (iOS),Addictive,Fun and feel,1954.0,1713.0,138.0,103.0,0.877,0.071,0.012
+App Store (iOS),Ads interrupt play,Ads and money,1913.0,61.0,1707.0,145.0,0.032,0.892,0.0117
+App Store (iOS),An ad after every level,Ads and money,1708.0,39.0,1583.0,86.0,0.023,0.927,0.0105
+App Store (iOS),Boring,Fun and feel,891.0,68.0,614.0,209.0,0.076,0.689,0.0055
+App Store (iOS),Challenging in a good way,Levels and difficulty,1001.0,843.0,87.0,71.0,0.842,0.087,0.0061
+App Store (iOS),"Childhood game, good for kids",Nostalgia,714.0,565.0,125.0,24.0,0.791,0.175,0.0044
+App Store (iOS),"Coins, rewards and pay-to-win",Ads and money,1440.0,445.0,891.0,104.0,0.309,0.619,0.0088
+App Store (iOS),Controls and buttons,Gameplay and design,1091.0,312.0,633.0,146.0,0.286,0.58,0.0067
+App Store (iOS),"Crashes, freezes, won't load",Bugs and tech,3488.0,217.0,3017.0,254.0,0.062,0.865,0.0214
+App Store (iOS),Easy to pick up,Levels and difficulty,1056.0,745.0,205.0,106.0,0.705,0.194,0.0065
+App Store (iOS),Few or no ads,Ads and money,1422.0,621.0,585.0,216.0,0.437,0.411,0.0087
+App Store (iOS),"Finished, stuck or lost progress",Levels and difficulty,3216.0,1336.0,1546.0,334.0,0.415,0.481,0.0197
+App Store (iOS),Forced to watch ads,Ads and money,1908.0,212.0,1517.0,179.0,0.111,0.795,0.0117
+App Store (iOS),Fun to play,Fun and feel,6386.0,6201.0,61.0,124.0,0.971,0.01,0.0391
+App Store (iOS),"Fun, but too many ads",Ads and money,2052.0,793.0,871.0,388.0,0.386,0.424,0.0126
+App Store (iOS),General dislike,General reaction,11768.0,1824.0,9378.0,566.0,0.155,0.797,0.072
+App Store (iOS),General praise,General reaction,28670.0,26601.0,1159.0,910.0,0.928,0.04,0.1755
+App Store (iOS),Graphics and colours,Gameplay and design,1050.0,863.0,138.0,49.0,0.822,0.131,0.0064
+App Store (iOS),"Greedy, a money grab",Ads and money,1642.0,241.0,1319.0,82.0,0.147,0.803,0.0101
+App Store (iOS),Hard levels,Levels and difficulty,1678.0,515.0,636.0,527.0,0.307,0.379,0.0103
+App Store (iOS),Lag and slowdown,Bugs and tech,862.0,126.0,580.0,156.0,0.146,0.673,0.0053
+App Store (iOS),Music and songs,Gameplay and design,2335.0,1627.0,473.0,235.0,0.697,0.203,0.0143
+App Store (iOS),Names other ball games,Comparisons,3877.0,3172.0,499.0,206.0,0.818,0.129,0.0237
+App Store (iOS),"Nostalgia, 'it used to be better'",Nostalgia,2256.0,1294.0,791.0,171.0,0.574,0.351,0.0138
+App Store (iOS),Offline play and internet,Offline and internet,2746.0,1859.0,728.0,159.0,0.677,0.265,0.0168
+App Store (iOS),"Paid to remove ads, still see ads",Ads and money,1317.0,146.0,1097.0,74.0,0.111,0.833,0.0081
+App Store (iOS),Phone and device problems,Bugs and tech,1249.0,405.0,748.0,96.0,0.324,0.599,0.0076
+App Store (iOS),Playing for years,Nostalgia,2115.0,1839.0,211.0,65.0,0.87,0.1,0.0129
+App Store (iOS),"Price, paid version and refunds",Ads and money,952.0,353.0,541.0,58.0,0.371,0.568,0.0058
+App Store (iOS),Relaxing way to pass time,Fun and feel,1363.0,1008.0,273.0,82.0,0.74,0.2,0.0083
+App Store (iOS),Repetitive,Fun and feel,1883.0,190.0,1433.0,260.0,0.101,0.761,0.0115
+App Store (iOS),Short or unclear comments,General reaction,22763.0,17554.0,4809.0,400.0,0.771,0.211,0.1393
+App Store (iOS),"Simple, creative design",Gameplay and design,1527.0,1427.0,57.0,43.0,0.935,0.037,0.0093
+App Store (iOS),Star ratings and verdicts,General reaction,5850.0,3663.0,1696.0,491.0,0.626,0.29,0.0358
+App Store (iOS),Stress relief or frustration,Fun and feel,997.0,524.0,383.0,90.0,0.526,0.384,0.0061
+App Store (iOS),Suggestions and potential,Ideas,3749.0,2557.0,586.0,606.0,0.682,0.156,0.0229
+App Store (iOS),Too hard to enjoy,Levels and difficulty,4630.0,983.0,2879.0,768.0,0.212,0.622,0.0283
+App Store (iOS),Too many ads,Ads and money,13326.0,977.0,11272.0,1077.0,0.073,0.846,0.0816
+App Store (iOS),Tricky jumps and physics glitches,Gameplay and design,2845.0,953.0,1426.0,466.0,0.335,0.501,0.0174
+App Store (iOS),Uninstalled it,General reaction,1292.0,64.0,1196.0,32.0,0.05,0.926,0.0079
+App Store (iOS),Updates,Bugs and tech,3344.0,1021.0,1987.0,336.0,0.305,0.594,0.0205
+App Store (iOS),"Waiting, lives and wasted time",Ads and money,2083.0,399.0,1495.0,189.0,0.192,0.718,0.0128
+App Store (iOS),Wants more levels,Levels and difficulty,4263.0,2765.0,964.0,534.0,0.649,0.226,0.0261
+Google Play (Android),"Account, login and support",Bugs and tech,5608.0,1127.0,4215.0,266.0,0.201,0.752,0.0051
+Google Play (Android),Addictive,Fun and feel,18996.0,18169.0,624.0,203.0,0.956,0.033,0.0174
+Google Play (Android),Ads interrupt play,Ads and money,9697.0,331.0,8841.0,525.0,0.034,0.912,0.0089
+Google Play (Android),An ad after every level,Ads and money,10211.0,249.0,9568.0,394.0,0.024,0.937,0.0094
+Google Play (Android),Boring,Fun and feel,5410.0,612.0,3593.0,1205.0,0.113,0.664,0.005
+Google Play (Android),Challenging in a good way,Levels and difficulty,11105.0,9881.0,741.0,483.0,0.89,0.067,0.0102
+Google Play (Android),"Childhood game, good for kids",Nostalgia,4095.0,3710.0,339.0,46.0,0.906,0.083,0.0038
+Google Play (Android),"Coins, rewards and pay-to-win",Ads and money,10728.0,3595.0,6256.0,877.0,0.335,0.583,0.0098
+Google Play (Android),Controls and buttons,Gameplay and design,7490.0,2027.0,4242.0,1221.0,0.271,0.566,0.0069
+Google Play (Android),"Crashes, freezes, won't load",Bugs and tech,19373.0,1709.0,16110.0,1554.0,0.088,0.832,0.0178
+Google Play (Android),Easy to pick up,Levels and difficulty,6984.0,5882.0,567.0,535.0,0.842,0.081,0.0064
+Google Play (Android),Few or no ads,Ads and money,10459.0,5436.0,3952.0,1071.0,0.52,0.378,0.0096
+Google Play (Android),"Finished, stuck or lost progress",Levels and difficulty,16398.0,6773.0,7734.0,1891.0,0.413,0.472,0.0151
+Google Play (Android),Forced to watch ads,Ads and money,9685.0,722.0,8254.0,709.0,0.075,0.852,0.0089
+Google Play (Android),Fun to play,Fun and feel,80786.0,79364.0,427.0,995.0,0.982,0.005,0.0742
+Google Play (Android),"Fun, but too many ads",Ads and money,12306.0,5677.0,5016.0,1613.0,0.461,0.408,0.0113
+Google Play (Android),General dislike,General reaction,52288.0,8841.0,41079.0,2368.0,0.169,0.786,0.048
+Google Play (Android),General praise,General reaction,322669.0,309921.0,5977.0,6771.0,0.96,0.019,0.2962
+Google Play (Android),Graphics and colours,Gameplay and design,8940.0,7503.0,880.0,557.0,0.839,0.098,0.0082
+Google Play (Android),"Greedy, a money grab",Ads and money,7632.0,1201.0,6072.0,359.0,0.157,0.796,0.007
+Google Play (Android),Hard levels,Levels and difficulty,8322.0,2906.0,2971.0,2445.0,0.349,0.357,0.0076
+Google Play (Android),Lag and slowdown,Bugs and tech,7041.0,1345.0,3968.0,1728.0,0.191,0.564,0.0065
+Google Play (Android),Music and songs,Gameplay and design,15396.0,10836.0,3162.0,1398.0,0.704,0.205,0.0141
+Google Play (Android),Names other ball games,Comparisons,19802.0,13533.0,4370.0,1899.0,0.683,0.221,0.0182
+Google Play (Android),"Nostalgia, 'it used to be better'",Nostalgia,11119.0,7641.0,2604.0,874.0,0.687,0.234,0.0102
+Google Play (Android),Offline play and internet,Offline and internet,17045.0,13602.0,2651.0,792.0,0.798,0.156,0.0156
+Google Play (Android),"Paid to remove ads, still see ads",Ads and money,7933.0,747.0,6704.0,482.0,0.094,0.845,0.0073
+Google Play (Android),Phone and device problems,Bugs and tech,7122.0,2731.0,3727.0,664.0,0.383,0.523,0.0065
+Google Play (Android),Playing for years,Nostalgia,13451.0,11909.0,1079.0,463.0,0.885,0.08,0.0123
+Google Play (Android),"Price, paid version and refunds",Ads and money,5877.0,2405.0,3050.0,422.0,0.409,0.519,0.0054
+Google Play (Android),Relaxing way to pass time,Fun and feel,21116.0,19028.0,1502.0,586.0,0.901,0.071,0.0194
+Google Play (Android),Repetitive,Fun and feel,6498.0,954.0,4466.0,1078.0,0.147,0.687,0.006
+Google Play (Android),Short or unclear comments,General reaction,84965.0,75167.0,8581.0,1217.0,0.885,0.101,0.078
+Google Play (Android),"Simple, creative design",Gameplay and design,14259.0,13532.0,422.0,305.0,0.949,0.03,0.0131
+Google Play (Android),Star ratings and verdicts,General reaction,39307.0,24008.0,11542.0,3757.0,0.611,0.294,0.0361
+Google Play (Android),Stress relief or frustration,Fun and feel,7332.0,5178.0,1553.0,601.0,0.706,0.212,0.0067
+Google Play (Android),Suggestions and potential,Ideas,18443.0,13685.0,2171.0,2587.0,0.742,0.118,0.0169
+Google Play (Android),Too hard to enjoy,Levels and difficulty,14864.0,3686.0,9484.0,1694.0,0.248,0.638,0.0136
+Google Play (Android),Too many ads,Ads and money,66105.0,4762.0,55798.0,5545.0,0.072,0.844,0.0607
+Google Play (Android),Tricky jumps and physics glitches,Gameplay and design,11959.0,4140.0,5216.0,2603.0,0.346,0.436,0.011
+Google Play (Android),Uninstalled it,General reaction,11476.0,503.0,10816.0,157.0,0.044,0.942,0.0105
+Google Play (Android),Updates,Bugs and tech,18242.0,6400.0,10051.0,1791.0,0.351,0.551,0.0167
+Google Play (Android),"Waiting, lives and wasted time",Ads and money,8313.0,2957.0,4255.0,1101.0,0.356,0.512,0.0076
+Google Play (Android),Wants more levels,Levels and difficulty,22338.0,14689.0,4866.0,2783.0,0.658,0.218,0.0205
+Steam (PC),"Account, login and support",Bugs and tech,56.0,18.0,32.0,6.0,0.321,0.571,0.0032
+Steam (PC),Addictive,Fun and feel,271.0,253.0,7.0,11.0,0.934,0.026,0.0155
+Steam (PC),Ads interrupt play,Ads and money,1.0,0.0,1.0,0.0,0.0,1.0,0.0001
+Steam (PC),An ad after every level,Ads and money,1.0,1.0,0.0,0.0,1.0,0.0,0.0001
+Steam (PC),Boring,Fun and feel,88.0,10.0,53.0,25.0,0.114,0.602,0.005
+Steam (PC),Challenging in a good way,Levels and difficulty,419.0,369.0,21.0,29.0,0.881,0.05,0.0239
+Steam (PC),"Childhood game, good for kids",Nostalgia,105.0,98.0,7.0,0.0,0.933,0.067,0.006
+Steam (PC),"Coins, rewards and pay-to-win",Ads and money,189.0,122.0,58.0,9.0,0.646,0.307,0.0108
+Steam (PC),Controls and buttons,Gameplay and design,320.0,137.0,123.0,60.0,0.428,0.384,0.0183
+Steam (PC),"Crashes, freezes, won't load",Bugs and tech,328.0,49.0,237.0,42.0,0.149,0.723,0.0187
+Steam (PC),Easy to pick up,Levels and difficulty,224.0,189.0,7.0,28.0,0.844,0.031,0.0128
+Steam (PC),Few or no ads,Ads and money,2.0,0.0,2.0,0.0,0.0,1.0,0.0001
+Steam (PC),"Finished, stuck or lost progress",Levels and difficulty,309.0,166.0,92.0,51.0,0.537,0.298,0.0176
+Steam (PC),Forced to watch ads,Ads and money,3.0,0.0,3.0,0.0,0.0,1.0,0.0002
+Steam (PC),Fun to play,Fun and feel,964.0,946.0,9.0,9.0,0.981,0.009,0.055
+Steam (PC),"Fun, but too many ads",Ads and money,6.0,6.0,0.0,0.0,1.0,0.0,0.0003
+Steam (PC),General dislike,General reaction,1060.0,343.0,661.0,56.0,0.324,0.624,0.0605
+Steam (PC),General praise,General reaction,1840.0,1735.0,46.0,59.0,0.943,0.025,0.105
+Steam (PC),Graphics and colours,Gameplay and design,623.0,526.0,52.0,45.0,0.844,0.083,0.0355
+Steam (PC),"Greedy, a money grab",Ads and money,114.0,45.0,59.0,10.0,0.395,0.518,0.0065
+Steam (PC),Hard levels,Levels and difficulty,282.0,128.0,67.0,87.0,0.454,0.238,0.0161
+Steam (PC),Lag and slowdown,Bugs and tech,168.0,49.0,63.0,56.0,0.292,0.375,0.0096
+Steam (PC),Music and songs,Gameplay and design,407.0,310.0,56.0,41.0,0.762,0.138,0.0232
+Steam (PC),Names other ball games,Comparisons,653.0,487.0,106.0,60.0,0.746,0.162,0.0372
+Steam (PC),"Nostalgia, 'it used to be better'",Nostalgia,553.0,435.0,77.0,41.0,0.787,0.139,0.0315
+Steam (PC),Offline play and internet,Offline and internet,493.0,411.0,52.0,30.0,0.834,0.105,0.0281
+Steam (PC),Phone and device problems,Bugs and tech,11.0,8.0,1.0,2.0,0.727,0.091,0.0006
+Steam (PC),Playing for years,Nostalgia,304.0,269.0,18.0,17.0,0.885,0.059,0.0173
+Steam (PC),"Price, paid version and refunds",Ads and money,477.0,335.0,114.0,28.0,0.702,0.239,0.0272
+Steam (PC),Relaxing way to pass time,Fun and feel,305.0,250.0,24.0,31.0,0.82,0.079,0.0174
+Steam (PC),Repetitive,Fun and feel,201.0,80.0,67.0,54.0,0.398,0.333,0.0115
+Steam (PC),Short or unclear comments,General reaction,1172.0,1054.0,100.0,18.0,0.899,0.085,0.0668
+Steam (PC),"Simple, creative design",Gameplay and design,1072.0,1001.0,44.0,27.0,0.934,0.041,0.0611
+Steam (PC),Star ratings and verdicts,General reaction,831.0,622.0,166.0,43.0,0.748,0.2,0.0474
+Steam (PC),Stress relief or frustration,Fun and feel,172.0,107.0,40.0,25.0,0.622,0.233,0.0098
+Steam (PC),Suggestions and potential,Ideas,1219.0,1046.0,80.0,93.0,0.858,0.066,0.0695
+Steam (PC),Too hard to enjoy,Levels and difficulty,730.0,286.0,324.0,120.0,0.392,0.444,0.0416
+Steam (PC),Too many ads,Ads and money,41.0,14.0,18.0,9.0,0.341,0.439,0.0023
+Steam (PC),Tricky jumps and physics glitches,Gameplay and design,754.0,375.0,242.0,137.0,0.497,0.321,0.043
+Steam (PC),Uninstalled it,General reaction,25.0,3.0,20.0,2.0,0.12,0.8,0.0014
+Steam (PC),Updates,Bugs and tech,241.0,110.0,100.0,31.0,0.456,0.415,0.0137
+Steam (PC),"Waiting, lives and wasted time",Ads and money,167.0,79.0,56.0,32.0,0.473,0.335,0.0095
+Steam (PC),Wants more levels,Levels and difficulty,331.0,222.0,53.0,56.0,0.671,0.16,0.0189

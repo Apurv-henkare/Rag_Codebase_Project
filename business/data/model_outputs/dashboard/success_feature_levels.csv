@@ -1,0 +1,40 @@
+feature,level,listings,avg_rating_percentile,avg_popularity_percentile
+platform,App Store (iOS),481,50.2,50.1
+platform,Google Play (Android),621,50.2,50.2
+platform,Steam (PC),320,50.7,50.2
+ball_game_category,A: Ball platformer,336,50.0,47.2
+ball_game_category,Adjacent: marble shooter,113,59.9,58.5
+ball_game_category,B: Rolling ball,505,42.3,45.5
+ball_game_category,C: Ball physics & bouncing,373,53.5,53.0
+ball_game_category,D: Hybrid / rhythm & transform,92,52.5,58.7
+control_type,direct (keys/controller),55,74.1,42.5
+control_type,swipe/drag,191,49.1,55.9
+control_type,tap,79,49.7,48.7
+control_type,tilt,97,46.1,37.2
+control_type,unspecified,1000,50.0,50.6
+is_free,no,323,51.1,48.7
+is_free,yes,1099,50.1,50.7
+has_ads,no,109,29.2,29.4
+has_ads,yes,512,52.3,52.9
+has_iap,no,297,48.9,39.5
+has_iap,yes,324,50.6,54.2
+mentions_physics,no,1186,50.4,49.7
+mentions_physics,yes,236,49.3,52.5
+mentions_bounce,no,834,49.3,49.7
+mentions_bounce,yes,588,51.7,50.8
+mentions_roll,no,961,51.8,50.8
+mentions_roll,yes,461,46.0,48.7
+has_level_editor,no,1407,50.1,50.1
+has_level_editor,yes,15,64.3,55.4
+has_leaderboards,no,1327,50.5,50.0
+has_leaderboards,yes,95,47.0,52.1
+has_multiplayer,no,1385,50.1,49.9
+has_multiplayer,yes,37,55.4,56.1
+has_checkpoints,no,1407,50.3,50.1
+has_checkpoints,yes,15,41.8,50.5
+has_skins,no,1352,50.8,50.2
+has_skins,yes,70,38.3,49.1
+has_boss_fights,no,1364,50.3,49.8
+has_boss_fights,yes,58,49.2,56.8
+works_offline,no,1336,50.5,50.1
+works_offline,yes,86,47.7,51.7

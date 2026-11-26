@@ -1,0 +1,15 @@
+{
+ "rating_percentile_in_store": {
+  "listings": 585,
+  "r2": 0.0,
+  "mae": 23.884,
+  "baseline_mae_predict_average": 25.045
+ },
+ "popularity_percentile_in_store": {
+  "listings": 1088,
+  "r2": 0.104,
+  "mae": 22.503,
+  "baseline_mae_predict_average": 24.837
+ },
+ "note": "5-fold CV grouped by title; associations in store data, not causes"
+}

@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+# raw downloads are large; rebuilt by scripts/
+data/raw/
+# 235 MB, over GitHub's 100 MB file limit; rebuilt by scripts/finalize.py
+data/processed/reviews.csv
+# 1.1 GB fine-tuned weights; rebuilt by hpc/train_sentiment.py
+models/sentiment/
+# per-review model labels (large); rebuilt by hpc/
+data/model_outputs/review_sentiment.csv.gz
+
+# dashboard: installed packages and build output (npm install / npm run build)
+dashboard/node_modules/
+dashboard/dist/

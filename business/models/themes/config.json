@@ -1,0 +1,6 @@
+{
+ "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+ "k": 80,
+ "clause_split_regex": "(?<=[.!?])\\s+|\\s+(?:but|however|although|though|except)\\s+",
+ "min_clause_chars": 3
+}
