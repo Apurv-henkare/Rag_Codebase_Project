@@ -1,0 +1,116 @@
+{
+ "base_model": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+ "train_texts": 400000,
+ "test_texts": 66444,
+ "test_games": 41,
+ "train_minutes": 9.5,
+ "note": "test = games never seen in training; labels are store stars, which are themselves noisy",
+ "before_fine_tuning": {
+  "macro_f1": 0.5456,
+  "accuracy": 0.7001,
+  "per_class": {
+   "negative": {
+    "precision": 0.6768073492211423,
+    "recall": 0.8211112905831045,
+    "f1-score": 0.7420084659173843,
+    "support": 24764.0
+   },
+   "neutral": {
+    "precision": 0.09636928060467,
+    "recall": 0.11602209944751381,
+    "f1-score": 0.10528644105286442,
+    "support": 6154.0
+   },
+   "positive": {
+    "precision": 0.8784450346659308,
+    "recall": 0.7168552609356528,
+    "f1-score": 0.7894663422043803,
+    "support": 35526.0
+   },
+   "accuracy": 0.700063211125158,
+   "macro avg": {
+    "precision": 0.550540554830581,
+    "recall": 0.5513295503220904,
+    "f1-score": 0.5455870830582097,
+    "support": 66444.0
+   },
+   "weighted avg": {
+    "precision": 0.7308583476385432,
+    "recall": 0.700063211125158,
+    "f1-score": 0.7084102655073482,
+    "support": 66444.0
+   }
+  },
+  "confusion_rows_true_cols_pred": [
+   [
+    20334,
+    2487,
+    1943
+   ],
+   [
+    3859,
+    714,
+    1581
+   ],
+   [
+    5851,
+    4208,
+    25467
+   ]
+  ]
+ },
+ "after_fine_tuning": {
+  "macro_f1": 0.7074,
+  "accuracy": 0.8246,
+  "per_class": {
+   "negative": {
+    "precision": 0.8623562246278755,
+    "recall": 0.8234937812954288,
+    "f1-score": 0.8424770718003801,
+    "support": 24764.0
+   },
+   "neutral": {
+    "precision": 0.34758859579003465,
+    "recall": 0.42395190120246995,
+    "f1-score": 0.38199121522693996,
+    "support": 6154.0
+   },
+   "positive": {
+    "precision": 0.9008500991782374,
+    "recall": 0.8948657321398412,
+    "f1-score": 0.897847943967465,
+    "support": 35526.0
+   },
+   "accuracy": 0.8246493287580519,
+   "macro avg": {
+    "precision": 0.7035983065320491,
+    "recall": 0.7141038048792466,
+    "f1-score": 0.7074387436649284,
+    "support": 66444.0
+   },
+   "weighted avg": {
+    "precision": 0.8352605259855314,
+    "recall": 0.8246493287580519,
+    "f1-score": 0.8294326380404455,
+    "support": 66444.0
+   }
+  },
+  "confusion_rows_true_cols_pred": [
+   [
+    20393,
+    2581,
+    1790
+   ],
+   [
+    1836,
+    2609,
+    1709
+   ],
+   [
+    1419,
+    2316,
+    31791
+   ]
+  ]
+ }
+}

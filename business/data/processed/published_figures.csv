@@ -1,0 +1,19 @@
+game,metric,value_low,value_high,unit,as_of,source_kind,confidence,source_url,note
+Zuma (series),units_sold,17000000,17000000,copies,2010-11,record body (Guinness),high,https://www.guinnessworldrecords.com/world-records/best-selling-physics-based-puzzle-videogame,Best-selling physics-based puzzle videogame
+Zuma (series),units_sold,20000000,20000000,copies,2010,publisher press release (PopCap),high,https://prnewswire.com/news-releases/popcap-launches-zumar-blitz-on-facebookr-platform-111846834.html,"""over 20 million units sold worldwide"""
+Peggle (series),downloads,30000000,30000000,downloads,2011,press report,medium,https://shacknews.com/article/69904/peggle-reaches-30-million-downloads,Downloads include free trials; not paid sales
+Peggle Deluxe,units_sold_steam,969600,969600,copies,2026,third-party estimate (review-count method),low,https://gamerevenuedata.pages.dev/games/peggle-deluxe/,Modelled from Steam review counts
+Peggle Deluxe,gross_revenue_steam,3400000,3400000,USD,2026,third-party estimate (review-count method),low,https://gamerevenuedata.pages.dev/games/peggle-deluxe/,Modelled; gross before store cut
+Super Monkey Ball (series),units_sold,5000000,5000000,copies,2024-07,publisher interview (Sega producer via Famitsu),high,https://finalweapon.net/2024/07/29/super-monkey-ball-series-surpasses-five-million-copies-sold,"""surpassed five million copies sold worldwide"""
+Super Monkey Ball: Touch & Roll,units_sold,1100000,1100000,copies,2017-12,sales tracker (VGChartz),medium,https://www.vgchartz.com/game/2287/super-monkey-ball-touch-amp-roll/summary,Tracker total
+Super Monkey Ball: Banana Blitz,units_sold,1210000,1210000,copies,2017-12,sales tracker (VGChartz),medium,https://www.vgchartz.com/game/2286/super-monkey-ball-banana-blitz/reviews/953/,Tracker total
+Geometry Dash,gross_revenue_mobile,21000000,21000000,USD,n/a,market intelligence estimate (Sensor Tower),medium,https://sensortower.com/blog/geometry-dash-revenue,In-app purchase revenue only; excludes ads
+Geometry Dash,units_sold_steam,12000000,24000000,copies,2026-11,third-party estimate (review-count method),low,https://www.steampageanalyzer.com/games/322170,612k reviews x 20-40
+Marble Madness,arcade_units_sold,4000,4000,cabinets,1984,developer talk (GDC 2011),high,https://www.gamedeveloper.com/game-platforms/gdc-2011-mark-cerny-discusses-i-marble-madness-i-turbulent-development,Best-selling arcade game of its year
+Marble Madness,arcade_units_produced,3270,3270,cabinets,1984,arcade database,medium,https://www.arcade-history.com/game/1559/,May count production rather than sales
+Marble Madness,development_time,10,10,months,1984,encyclopedia,medium,https://en.wikipedia.org/wiki/Marble_Madness,Only development-effort figure found; no budget
+Going Balls,installs_android,428300000,428300000,installs,2026,third-party tracker (AppGoblin),medium,https://appgoblin.info/apps/com.pronetis.ironball2,
+Going Balls,monthly_revenue_android,1000000,1000000,USD per month,2026,third-party estimate (AppGoblin),low,https://appgoblin.info/apps/com.pronetis.ironball2,"""$1M+ monthly"" estimate"
+Rock of Ages,units_sold_steam,175200,209900,copies,2026,third-party estimate (review-count method),low,https://gamerevenuedata.pages.dev/games/rock-of-ages,
+Rock of Ages 3: Make & Break,units_sold_steam,88900,88900,copies,2026,third-party estimate (review-count method),low,https://gamerevenuedata.pages.dev/games/rock-of-ages-3-make-break,
+Bounce (Nokia),distribution,,,,2001,encyclopedia,high,https://en.wikipedia.org/wiki/Bounce_(video_game_series),Preinstalled on Nokia 9210 Communicator (2001) and Series 40 phones such as the 6610; bundled so no sales figure exists

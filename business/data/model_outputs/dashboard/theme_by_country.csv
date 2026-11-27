@@ -1,0 +1,441 @@
+country,theme,theme_group,mentions,positive,negative,neutral,share_positive,share_negative
+au,"Account, login and support",Bugs and tech,83.0,15.0,67.0,1.0,0.181,0.807
+au,Addictive,Fun and feel,291.0,270.0,14.0,7.0,0.928,0.048
+au,Ads interrupt play,Ads and money,197.0,12.0,168.0,17.0,0.061,0.853
+au,An ad after every level,Ads and money,157.0,5.0,145.0,7.0,0.032,0.924
+au,Boring,Fun and feel,134.0,10.0,82.0,42.0,0.075,0.612
+au,Challenging in a good way,Levels and difficulty,175.0,143.0,20.0,12.0,0.817,0.114
+au,"Childhood game, good for kids",Nostalgia,72.0,59.0,13.0,0.0,0.819,0.181
+au,"Coins, rewards and pay-to-win",Ads and money,154.0,60.0,80.0,14.0,0.39,0.519
+au,Controls and buttons,Gameplay and design,142.0,44.0,77.0,21.0,0.31,0.542
+au,"Crashes, freezes, won't load",Bugs and tech,529.0,46.0,440.0,43.0,0.087,0.832
+au,Easy to pick up,Levels and difficulty,142.0,100.0,32.0,10.0,0.704,0.225
+au,Few or no ads,Ads and money,165.0,72.0,72.0,21.0,0.436,0.436
+au,"Finished, stuck or lost progress",Levels and difficulty,410.0,178.0,179.0,53.0,0.434,0.437
+au,Forced to watch ads,Ads and money,180.0,14.0,156.0,10.0,0.078,0.867
+au,Fun to play,Fun and feel,868.0,851.0,7.0,10.0,0.98,0.008
+au,"Fun, but too many ads",Ads and money,222.0,93.0,93.0,36.0,0.419,0.419
+au,General dislike,General reaction,1218.0,188.0,966.0,64.0,0.154,0.793
+au,General praise,General reaction,4196.0,3967.0,122.0,107.0,0.945,0.029
+au,Graphics and colours,Gameplay and design,145.0,128.0,11.0,6.0,0.883,0.076
+au,"Greedy, a money grab",Ads and money,154.0,36.0,113.0,5.0,0.234,0.734
+au,Hard levels,Levels and difficulty,230.0,84.0,65.0,81.0,0.365,0.283
+au,Lag and slowdown,Bugs and tech,112.0,15.0,74.0,23.0,0.134,0.661
+au,Music and songs,Gameplay and design,273.0,196.0,57.0,20.0,0.718,0.209
+au,Names other ball games,Comparisons,526.0,456.0,48.0,22.0,0.867,0.091
+au,"Nostalgia, 'it used to be better'",Nostalgia,232.0,154.0,66.0,12.0,0.664,0.284
+au,Offline play and internet,Offline and internet,331.0,250.0,67.0,14.0,0.755,0.202
+au,"Paid to remove ads, still see ads",Ads and money,187.0,28.0,149.0,10.0,0.15,0.797
+au,Phone and device problems,Bugs and tech,84.0,32.0,42.0,10.0,0.381,0.5
+au,Playing for years,Nostalgia,255.0,217.0,30.0,8.0,0.851,0.118
+au,"Price, paid version and refunds",Ads and money,114.0,39.0,67.0,8.0,0.342,0.588
+au,Relaxing way to pass time,Fun and feel,138.0,112.0,23.0,3.0,0.812,0.167
+au,Repetitive,Fun and feel,162.0,11.0,121.0,30.0,0.068,0.747
+au,Short or unclear comments,General reaction,1900.0,1600.0,269.0,31.0,0.842,0.142
+au,"Simple, creative design",Gameplay and design,228.0,219.0,4.0,5.0,0.961,0.018
+au,Star ratings and verdicts,General reaction,789.0,519.0,206.0,64.0,0.658,0.261
+au,Stress relief or frustration,Fun and feel,105.0,57.0,33.0,15.0,0.543,0.314
+au,Suggestions and potential,Ideas,433.0,306.0,46.0,81.0,0.707,0.106
+au,Too hard to enjoy,Levels and difficulty,317.0,54.0,214.0,49.0,0.17,0.675
+au,Too many ads,Ads and money,1498.0,126.0,1267.0,105.0,0.084,0.846
+au,Tricky jumps and physics glitches,Gameplay and design,360.0,151.0,146.0,63.0,0.419,0.406
+au,Uninstalled it,General reaction,164.0,10.0,150.0,4.0,0.061,0.915
+au,Updates,Bugs and tech,435.0,142.0,253.0,40.0,0.326,0.582
+au,"Waiting, lives and wasted time",Ads and money,133.0,32.0,75.0,26.0,0.241,0.564
+au,Wants more levels,Levels and difficulty,625.0,431.0,116.0,78.0,0.69,0.186
+br,"Account, login and support",Bugs and tech,22.0,3.0,18.0,1.0,0.136,0.818
+br,Addictive,Fun and feel,50.0,29.0,10.0,11.0,0.58,0.2
+br,Ads interrupt play,Ads and money,93.0,2.0,82.0,9.0,0.022,0.882
+br,An ad after every level,Ads and money,74.0,0.0,71.0,3.0,0.0,0.959
+br,Boring,Fun and feel,23.0,2.0,16.0,5.0,0.087,0.696
+br,Challenging in a good way,Levels and difficulty,53.0,47.0,4.0,2.0,0.887,0.075
+br,"Childhood game, good for kids",Nostalgia,37.0,32.0,3.0,2.0,0.865,0.081
+br,"Coins, rewards and pay-to-win",Ads and money,83.0,21.0,50.0,12.0,0.253,0.602
+br,Controls and buttons,Gameplay and design,22.0,9.0,11.0,2.0,0.409,0.5
+br,"Crashes, freezes, won't load",Bugs and tech,161.0,6.0,144.0,11.0,0.037,0.894
+br,Easy to pick up,Levels and difficulty,73.0,37.0,29.0,7.0,0.507,0.397
+br,Few or no ads,Ads and money,54.0,23.0,18.0,13.0,0.426,0.333
+br,"Finished, stuck or lost progress",Levels and difficulty,182.0,74.0,87.0,21.0,0.407,0.478
+br,Forced to watch ads,Ads and money,72.0,8.0,57.0,7.0,0.111,0.792
+br,Fun to play,Fun and feel,149.0,147.0,1.0,1.0,0.987,0.007
+br,"Fun, but too many ads",Ads and money,156.0,57.0,44.0,55.0,0.365,0.282
+br,General dislike,General reaction,889.0,102.0,748.0,39.0,0.115,0.841
+br,General praise,General reaction,1849.0,1722.0,70.0,57.0,0.931,0.038
+br,Graphics and colours,Gameplay and design,40.0,30.0,8.0,2.0,0.75,0.2
+br,"Greedy, a money grab",Ads and money,78.0,9.0,61.0,8.0,0.115,0.782
+br,Hard levels,Levels and difficulty,27.0,4.0,19.0,4.0,0.148,0.704
+br,Lag and slowdown,Bugs and tech,25.0,2.0,16.0,7.0,0.08,0.64
+br,Music and songs,Gameplay and design,195.0,121.0,39.0,35.0,0.621,0.2
+br,Names other ball games,Comparisons,126.0,103.0,15.0,8.0,0.817,0.119
+br,"Nostalgia, 'it used to be better'",Nostalgia,107.0,55.0,45.0,7.0,0.514,0.421
+br,Offline play and internet,Offline and internet,132.0,71.0,53.0,8.0,0.538,0.402
+br,"Paid to remove ads, still see ads",Ads and money,36.0,0.0,33.0,3.0,0.0,0.917
+br,Phone and device problems,Bugs and tech,73.0,21.0,45.0,7.0,0.288,0.616
+br,Playing for years,Nostalgia,72.0,62.0,6.0,4.0,0.861,0.083
+br,"Price, paid version and refunds",Ads and money,44.0,15.0,28.0,1.0,0.341,0.636
+br,Relaxing way to pass time,Fun and feel,76.0,52.0,15.0,9.0,0.684,0.197
+br,Repetitive,Fun and feel,96.0,5.0,71.0,20.0,0.052,0.74
+br,Short or unclear comments,General reaction,1814.0,1444.0,348.0,22.0,0.796,0.192
+br,"Simple, creative design",Gameplay and design,81.0,74.0,3.0,4.0,0.914,0.037
+br,Star ratings and verdicts,General reaction,256.0,178.0,52.0,26.0,0.695,0.203
+br,Stress relief or frustration,Fun and feel,39.0,26.0,12.0,1.0,0.667,0.308
+br,Suggestions and potential,Ideas,193.0,127.0,25.0,41.0,0.658,0.13
+br,Too hard to enjoy,Levels and difficulty,365.0,74.0,219.0,72.0,0.203,0.6
+br,Too many ads,Ads and money,931.0,36.0,824.0,71.0,0.039,0.885
+br,Tricky jumps and physics glitches,Gameplay and design,93.0,29.0,53.0,11.0,0.312,0.57
+br,Uninstalled it,General reaction,56.0,2.0,54.0,0.0,0.036,0.964
+br,Updates,Bugs and tech,206.0,61.0,120.0,25.0,0.296,0.583
+br,"Waiting, lives and wasted time",Ads and money,91.0,24.0,62.0,5.0,0.264,0.681
+br,Wants more levels,Levels and difficulty,81.0,48.0,16.0,17.0,0.593,0.198
+ca,"Account, login and support",Bugs and tech,134.0,18.0,112.0,4.0,0.134,0.836
+ca,Addictive,Fun and feel,290.0,267.0,18.0,5.0,0.921,0.062
+ca,Ads interrupt play,Ads and money,191.0,5.0,181.0,5.0,0.026,0.948
+ca,An ad after every level,Ads and money,205.0,2.0,190.0,13.0,0.01,0.927
+ca,Boring,Fun and feel,121.0,10.0,84.0,27.0,0.083,0.694
+ca,Challenging in a good way,Levels and difficulty,146.0,118.0,14.0,14.0,0.808,0.096
+ca,"Childhood game, good for kids",Nostalgia,89.0,72.0,15.0,2.0,0.809,0.169
+ca,"Coins, rewards and pay-to-win",Ads and money,183.0,49.0,125.0,9.0,0.268,0.683
+ca,Controls and buttons,Gameplay and design,205.0,63.0,110.0,32.0,0.307,0.537
+ca,"Crashes, freezes, won't load",Bugs and tech,465.0,35.0,400.0,30.0,0.075,0.86
+ca,Easy to pick up,Levels and difficulty,131.0,93.0,29.0,9.0,0.71,0.221
+ca,Few or no ads,Ads and money,173.0,80.0,66.0,27.0,0.462,0.382
+ca,"Finished, stuck or lost progress",Levels and difficulty,384.0,158.0,195.0,31.0,0.411,0.508
+ca,Forced to watch ads,Ads and money,188.0,12.0,163.0,13.0,0.064,0.867
+ca,Fun to play,Fun and feel,1107.0,1078.0,14.0,15.0,0.974,0.013
+ca,"Fun, but too many ads",Ads and money,221.0,87.0,106.0,28.0,0.394,0.48
+ca,General dislike,General reaction,1391.0,206.0,1135.0,50.0,0.148,0.816
+ca,General praise,General reaction,3707.0,3434.0,150.0,123.0,0.926,0.04
+ca,Graphics and colours,Gameplay and design,157.0,134.0,16.0,7.0,0.854,0.102
+ca,"Greedy, a money grab",Ads and money,170.0,19.0,144.0,7.0,0.112,0.847
+ca,Hard levels,Levels and difficulty,171.0,57.0,70.0,44.0,0.333,0.409
+ca,Lag and slowdown,Bugs and tech,151.0,15.0,110.0,26.0,0.099,0.728
+ca,Music and songs,Gameplay and design,321.0,207.0,74.0,40.0,0.645,0.231
+ca,Names other ball games,Comparisons,590.0,457.0,95.0,38.0,0.775,0.161
+ca,"Nostalgia, 'it used to be better'",Nostalgia,229.0,152.0,56.0,21.0,0.664,0.245
+ca,Offline play and internet,Offline and internet,361.0,240.0,99.0,22.0,0.665,0.274
+ca,"Paid to remove ads, still see ads",Ads and money,175.0,21.0,143.0,11.0,0.12,0.817
+ca,Phone and device problems,Bugs and tech,132.0,50.0,75.0,7.0,0.379,0.568
+ca,Playing for years,Nostalgia,242.0,211.0,24.0,7.0,0.872,0.099
+ca,"Price, paid version and refunds",Ads and money,130.0,45.0,75.0,10.0,0.346,0.577
+ca,Relaxing way to pass time,Fun and feel,151.0,110.0,32.0,9.0,0.728,0.212
+ca,Repetitive,Fun and feel,195.0,18.0,157.0,20.0,0.092,0.805
+ca,Short or unclear comments,General reaction,1838.0,1493.0,308.0,37.0,0.812,0.168
+ca,"Simple, creative design",Gameplay and design,155.0,144.0,5.0,6.0,0.929,0.032
+ca,Star ratings and verdicts,General reaction,756.0,444.0,265.0,47.0,0.587,0.351
+ca,Stress relief or frustration,Fun and feel,113.0,54.0,50.0,9.0,0.478,0.442
+ca,Suggestions and potential,Ideas,362.0,242.0,52.0,68.0,0.669,0.144
+ca,Too hard to enjoy,Levels and difficulty,313.0,61.0,221.0,31.0,0.195,0.706
+ca,Too many ads,Ads and money,1462.0,111.0,1249.0,102.0,0.076,0.854
+ca,Tricky jumps and physics glitches,Gameplay and design,300.0,99.0,155.0,46.0,0.33,0.517
+ca,Uninstalled it,General reaction,187.0,8.0,174.0,5.0,0.043,0.93
+ca,Updates,Bugs and tech,386.0,131.0,231.0,24.0,0.339,0.598
+ca,"Waiting, lives and wasted time",Ads and money,170.0,44.0,112.0,14.0,0.259,0.659
+ca,Wants more levels,Levels and difficulty,669.0,450.0,154.0,65.0,0.673,0.23
+de,"Account, login and support",Bugs and tech,56.0,4.0,50.0,2.0,0.071,0.893
+de,Addictive,Fun and feel,85.0,60.0,12.0,13.0,0.706,0.141
+de,Ads interrupt play,Ads and money,29.0,0.0,26.0,3.0,0.0,0.897
+de,An ad after every level,Ads and money,18.0,1.0,17.0,0.0,0.056,0.944
+de,Boring,Fun and feel,170.0,11.0,120.0,39.0,0.065,0.706
+de,Challenging in a good way,Levels and difficulty,58.0,49.0,5.0,4.0,0.845,0.086
+de,"Childhood game, good for kids",Nostalgia,39.0,27.0,8.0,4.0,0.692,0.205
+de,"Coins, rewards and pay-to-win",Ads and money,209.0,51.0,137.0,21.0,0.244,0.656
+de,Controls and buttons,Gameplay and design,87.0,19.0,57.0,11.0,0.218,0.655
+de,"Crashes, freezes, won't load",Bugs and tech,228.0,11.0,194.0,23.0,0.048,0.851
+de,Easy to pick up,Levels and difficulty,88.0,62.0,15.0,11.0,0.705,0.17
+de,Few or no ads,Ads and money,29.0,9.0,19.0,1.0,0.31,0.655
+de,"Finished, stuck or lost progress",Levels and difficulty,355.0,121.0,194.0,40.0,0.341,0.546
+de,Forced to watch ads,Ads and money,15.0,0.0,13.0,2.0,0.0,0.867
+de,Fun to play,Fun and feel,345.0,333.0,2.0,10.0,0.965,0.006
+de,"Fun, but too many ads",Ads and money,21.0,7.0,11.0,3.0,0.333,0.524
+de,General dislike,General reaction,1180.0,184.0,931.0,65.0,0.156,0.789
+de,General praise,General reaction,2444.0,2161.0,172.0,111.0,0.884,0.07
+de,Graphics and colours,Gameplay and design,75.0,54.0,16.0,5.0,0.72,0.213
+de,"Greedy, a money grab",Ads and money,195.0,16.0,167.0,12.0,0.082,0.856
+de,Hard levels,Levels and difficulty,298.0,70.0,127.0,101.0,0.235,0.426
+de,Lag and slowdown,Bugs and tech,64.0,13.0,40.0,11.0,0.203,0.625
+de,Music and songs,Gameplay and design,199.0,122.0,55.0,22.0,0.613,0.276
+de,Names other ball games,Comparisons,254.0,207.0,34.0,13.0,0.815,0.134
+de,"Nostalgia, 'it used to be better'",Nostalgia,234.0,94.0,117.0,23.0,0.402,0.5
+de,Offline play and internet,Offline and internet,203.0,113.0,74.0,16.0,0.557,0.365
+de,"Paid to remove ads, still see ads",Ads and money,24.0,0.0,23.0,1.0,0.0,0.958
+de,Phone and device problems,Bugs and tech,129.0,45.0,74.0,10.0,0.349,0.574
+de,Playing for years,Nostalgia,218.0,186.0,21.0,11.0,0.853,0.096
+de,"Price, paid version and refunds",Ads and money,105.0,31.0,65.0,9.0,0.295,0.619
+de,Relaxing way to pass time,Fun and feel,127.0,83.0,32.0,12.0,0.654,0.252
+de,Repetitive,Fun and feel,464.0,34.0,375.0,55.0,0.073,0.808
+de,Short or unclear comments,General reaction,3171.0,2222.0,882.0,67.0,0.701,0.278
+de,"Simple, creative design",Gameplay and design,108.0,97.0,7.0,4.0,0.898,0.065
+de,Star ratings and verdicts,General reaction,474.0,250.0,146.0,78.0,0.527,0.308
+de,Stress relief or frustration,Fun and feel,155.0,40.0,99.0,16.0,0.258,0.639
+de,Suggestions and potential,Ideas,510.0,285.0,128.0,97.0,0.559,0.251
+de,Too hard to enjoy,Levels and difficulty,950.0,238.0,487.0,225.0,0.251,0.513
+de,Too many ads,Ads and money,171.0,14.0,147.0,10.0,0.082,0.86
+de,Tricky jumps and physics glitches,Gameplay and design,421.0,90.0,271.0,60.0,0.214,0.644
+de,Uninstalled it,General reaction,145.0,4.0,140.0,1.0,0.028,0.966
+de,Updates,Bugs and tech,289.0,87.0,170.0,32.0,0.301,0.588
+de,"Waiting, lives and wasted time",Ads and money,552.0,36.0,478.0,38.0,0.065,0.866
+de,Wants more levels,Levels and difficulty,409.0,228.0,132.0,49.0,0.557,0.323
+fr,"Account, login and support",Bugs and tech,48.0,8.0,34.0,6.0,0.167,0.708
+fr,Addictive,Fun and feel,217.0,166.0,17.0,34.0,0.765,0.078
+fr,Ads interrupt play,Ads and money,32.0,1.0,27.0,4.0,0.031,0.844
+fr,An ad after every level,Ads and money,33.0,0.0,30.0,3.0,0.0,0.909
+fr,Boring,Fun and feel,28.0,8.0,12.0,8.0,0.286,0.429
+fr,Challenging in a good way,Levels and difficulty,36.0,28.0,4.0,4.0,0.778,0.111
+fr,"Childhood game, good for kids",Nostalgia,34.0,24.0,5.0,5.0,0.706,0.147
+fr,"Coins, rewards and pay-to-win",Ads and money,93.0,30.0,59.0,4.0,0.323,0.634
+fr,Controls and buttons,Gameplay and design,30.0,11.0,16.0,3.0,0.367,0.533
+fr,"Crashes, freezes, won't load",Bugs and tech,245.0,20.0,203.0,22.0,0.082,0.829
+fr,Easy to pick up,Levels and difficulty,115.0,77.0,23.0,15.0,0.67,0.2
+fr,Few or no ads,Ads and money,20.0,13.0,5.0,2.0,0.65,0.25
+fr,"Finished, stuck or lost progress",Levels and difficulty,289.0,122.0,138.0,29.0,0.422,0.478
+fr,Forced to watch ads,Ads and money,61.0,7.0,46.0,8.0,0.115,0.754
+fr,Fun to play,Fun and feel,173.0,165.0,3.0,5.0,0.954,0.017
+fr,"Fun, but too many ads",Ads and money,65.0,32.0,20.0,13.0,0.492,0.308
+fr,General dislike,General reaction,1174.0,172.0,935.0,67.0,0.147,0.796
+fr,General praise,General reaction,2280.0,2128.0,86.0,66.0,0.933,0.038
+fr,Graphics and colours,Gameplay and design,66.0,52.0,12.0,2.0,0.788,0.182
+fr,"Greedy, a money grab",Ads and money,230.0,20.0,192.0,18.0,0.087,0.835
+fr,Hard levels,Levels and difficulty,171.0,38.0,71.0,62.0,0.222,0.415
+fr,Lag and slowdown,Bugs and tech,33.0,3.0,22.0,8.0,0.091,0.667
+fr,Music and songs,Gameplay and design,217.0,153.0,39.0,25.0,0.705,0.18
+fr,Names other ball games,Comparisons,322.0,280.0,29.0,13.0,0.87,0.09
+fr,"Nostalgia, 'it used to be better'",Nostalgia,148.0,71.0,67.0,10.0,0.48,0.453
+fr,Offline play and internet,Offline and internet,321.0,206.0,96.0,19.0,0.642,0.299
+fr,"Paid to remove ads, still see ads",Ads and money,10.0,2.0,7.0,1.0,0.2,0.7
+fr,Phone and device problems,Bugs and tech,114.0,42.0,58.0,14.0,0.368,0.509
+fr,Playing for years,Nostalgia,113.0,98.0,10.0,5.0,0.867,0.088
+fr,"Price, paid version and refunds",Ads and money,69.0,27.0,41.0,1.0,0.391,0.594
+fr,Relaxing way to pass time,Fun and feel,92.0,53.0,30.0,9.0,0.576,0.326
+fr,Repetitive,Fun and feel,152.0,14.0,117.0,21.0,0.092,0.77
+fr,Short or unclear comments,General reaction,2827.0,1884.0,896.0,47.0,0.666,0.317
+fr,"Simple, creative design",Gameplay and design,133.0,129.0,4.0,0.0,0.97,0.03
+fr,Star ratings and verdicts,General reaction,359.0,219.0,103.0,37.0,0.61,0.287
+fr,Stress relief or frustration,Fun and feel,30.0,24.0,6.0,0.0,0.8,0.2
+fr,Suggestions and potential,Ideas,472.0,295.0,100.0,77.0,0.625,0.212
+fr,Too hard to enjoy,Levels and difficulty,637.0,142.0,371.0,124.0,0.223,0.582
+fr,Too many ads,Ads and money,747.0,66.0,513.0,168.0,0.088,0.687
+fr,Tricky jumps and physics glitches,Gameplay and design,196.0,72.0,94.0,30.0,0.367,0.48
+fr,Uninstalled it,General reaction,57.0,3.0,52.0,2.0,0.053,0.912
+fr,Updates,Bugs and tech,274.0,85.0,145.0,44.0,0.31,0.529
+fr,"Waiting, lives and wasted time",Ads and money,383.0,36.0,335.0,12.0,0.094,0.875
+fr,Wants more levels,Levels and difficulty,276.0,148.0,85.0,43.0,0.536,0.308
+gb,"Account, login and support",Bugs and tech,112.0,27.0,82.0,3.0,0.241,0.732
+gb,Addictive,Fun and feel,530.0,500.0,16.0,14.0,0.943,0.03
+gb,Ads interrupt play,Ads and money,327.0,7.0,297.0,23.0,0.021,0.908
+gb,An ad after every level,Ads and money,239.0,4.0,225.0,10.0,0.017,0.941
+gb,Boring,Fun and feel,169.0,8.0,129.0,32.0,0.047,0.763
+gb,Challenging in a good way,Levels and difficulty,176.0,149.0,16.0,11.0,0.847,0.091
+gb,"Childhood game, good for kids",Nostalgia,103.0,78.0,20.0,5.0,0.757,0.194
+gb,"Coins, rewards and pay-to-win",Ads and money,190.0,64.0,110.0,16.0,0.337,0.579
+gb,Controls and buttons,Gameplay and design,176.0,56.0,95.0,25.0,0.318,0.54
+gb,"Crashes, freezes, won't load",Bugs and tech,573.0,33.0,507.0,33.0,0.058,0.885
+gb,Easy to pick up,Levels and difficulty,162.0,114.0,26.0,22.0,0.704,0.16
+gb,Few or no ads,Ads and money,250.0,101.0,104.0,45.0,0.404,0.416
+gb,"Finished, stuck or lost progress",Levels and difficulty,448.0,185.0,204.0,59.0,0.413,0.455
+gb,Forced to watch ads,Ads and money,277.0,29.0,218.0,30.0,0.105,0.787
+gb,Fun to play,Fun and feel,930.0,908.0,10.0,12.0,0.976,0.011
+gb,"Fun, but too many ads",Ads and money,333.0,144.0,142.0,47.0,0.432,0.426
+gb,General dislike,General reaction,1562.0,228.0,1254.0,80.0,0.146,0.803
+gb,General praise,General reaction,4637.0,4340.0,120.0,177.0,0.936,0.026
+gb,Graphics and colours,Gameplay and design,154.0,142.0,7.0,5.0,0.922,0.045
+gb,"Greedy, a money grab",Ads and money,230.0,38.0,182.0,10.0,0.165,0.791
+gb,Hard levels,Levels and difficulty,247.0,94.0,82.0,71.0,0.381,0.332
+gb,Lag and slowdown,Bugs and tech,175.0,20.0,127.0,28.0,0.114,0.726
+gb,Music and songs,Gameplay and design,279.0,203.0,55.0,21.0,0.728,0.197
+gb,Names other ball games,Comparisons,643.0,557.0,61.0,25.0,0.866,0.095
+gb,"Nostalgia, 'it used to be better'",Nostalgia,308.0,180.0,103.0,25.0,0.584,0.334
+gb,Offline play and internet,Offline and internet,442.0,336.0,82.0,24.0,0.76,0.186
+gb,"Paid to remove ads, still see ads",Ads and money,263.0,24.0,224.0,15.0,0.091,0.852
+gb,Phone and device problems,Bugs and tech,141.0,48.0,84.0,9.0,0.34,0.596
+gb,Playing for years,Nostalgia,382.0,337.0,30.0,15.0,0.882,0.079
+gb,"Price, paid version and refunds",Ads and money,151.0,54.0,85.0,12.0,0.358,0.563
+gb,Relaxing way to pass time,Fun and feel,208.0,151.0,44.0,13.0,0.726,0.212
+gb,Repetitive,Fun and feel,182.0,21.0,127.0,34.0,0.115,0.698
+gb,Short or unclear comments,General reaction,2040.0,1706.0,286.0,48.0,0.836,0.14
+gb,"Simple, creative design",Gameplay and design,226.0,209.0,9.0,8.0,0.925,0.04
+gb,Star ratings and verdicts,General reaction,995.0,636.0,279.0,80.0,0.639,0.28
+gb,Stress relief or frustration,Fun and feel,169.0,88.0,60.0,21.0,0.521,0.355
+gb,Suggestions and potential,Ideas,438.0,313.0,46.0,79.0,0.715,0.105
+gb,Too hard to enjoy,Levels and difficulty,379.0,74.0,254.0,51.0,0.195,0.67
+gb,Too many ads,Ads and money,1904.0,146.0,1606.0,152.0,0.077,0.843
+gb,Tricky jumps and physics glitches,Gameplay and design,366.0,141.0,154.0,71.0,0.385,0.421
+gb,Uninstalled it,General reaction,248.0,2.0,240.0,6.0,0.008,0.968
+gb,Updates,Bugs and tech,533.0,141.0,339.0,53.0,0.265,0.636
+gb,"Waiting, lives and wasted time",Ads and money,184.0,53.0,111.0,20.0,0.288,0.603
+gb,Wants more levels,Levels and difficulty,769.0,496.0,165.0,108.0,0.645,0.215
+in,"Account, login and support",Bugs and tech,44.0,12.0,31.0,1.0,0.273,0.705
+in,Addictive,Fun and feel,90.0,83.0,7.0,0.0,0.922,0.078
+in,Ads interrupt play,Ads and money,90.0,2.0,82.0,6.0,0.022,0.911
+in,An ad after every level,Ads and money,101.0,2.0,93.0,6.0,0.02,0.921
+in,Boring,Fun and feel,31.0,3.0,19.0,9.0,0.097,0.613
+in,Challenging in a good way,Levels and difficulty,26.0,24.0,2.0,0.0,0.923,0.077
+in,"Childhood game, good for kids",Nostalgia,22.0,19.0,3.0,0.0,0.864,0.136
+in,"Coins, rewards and pay-to-win",Ads and money,30.0,6.0,22.0,2.0,0.2,0.733
+in,Controls and buttons,Gameplay and design,39.0,8.0,29.0,2.0,0.205,0.744
+in,"Crashes, freezes, won't load",Bugs and tech,290.0,12.0,264.0,14.0,0.041,0.91
+in,Easy to pick up,Levels and difficulty,14.0,10.0,4.0,0.0,0.714,0.286
+in,Few or no ads,Ads and money,64.0,19.0,39.0,6.0,0.297,0.609
+in,"Finished, stuck or lost progress",Levels and difficulty,111.0,59.0,42.0,10.0,0.532,0.378
+in,Forced to watch ads,Ads and money,58.0,5.0,49.0,4.0,0.086,0.845
+in,Fun to play,Fun and feel,170.0,169.0,1.0,0.0,0.994,0.006
+in,"Fun, but too many ads",Ads and money,78.0,13.0,58.0,7.0,0.167,0.744
+in,General dislike,General reaction,399.0,69.0,320.0,10.0,0.173,0.802
+in,General praise,General reaction,1371.0,1293.0,59.0,19.0,0.943,0.043
+in,Graphics and colours,Gameplay and design,50.0,43.0,5.0,2.0,0.86,0.1
+in,"Greedy, a money grab",Ads and money,42.0,6.0,32.0,4.0,0.143,0.762
+in,Hard levels,Levels and difficulty,40.0,8.0,18.0,14.0,0.2,0.45
+in,Lag and slowdown,Bugs and tech,68.0,10.0,48.0,10.0,0.147,0.706
+in,Music and songs,Gameplay and design,115.0,93.0,16.0,6.0,0.809,0.139
+in,Names other ball games,Comparisons,146.0,125.0,18.0,3.0,0.856,0.123
+in,"Nostalgia, 'it used to be better'",Nostalgia,49.0,29.0,19.0,1.0,0.592,0.388
+in,Offline play and internet,Offline and internet,103.0,69.0,29.0,5.0,0.67,0.282
+in,"Paid to remove ads, still see ads",Ads and money,65.0,12.0,49.0,4.0,0.185,0.754
+in,Phone and device problems,Bugs and tech,37.0,11.0,22.0,4.0,0.297,0.595
+in,Playing for years,Nostalgia,71.0,64.0,5.0,2.0,0.901,0.07
+in,"Price, paid version and refunds",Ads and money,31.0,14.0,16.0,1.0,0.452,0.516
+in,Relaxing way to pass time,Fun and feel,46.0,41.0,4.0,1.0,0.891,0.087
+in,Repetitive,Fun and feel,58.0,2.0,53.0,3.0,0.034,0.914
+in,Short or unclear comments,General reaction,516.0,397.0,114.0,5.0,0.769,0.221
+in,"Simple, creative design",Gameplay and design,76.0,70.0,4.0,2.0,0.921,0.053
+in,Star ratings and verdicts,General reaction,237.0,147.0,84.0,6.0,0.62,0.354
+in,Stress relief or frustration,Fun and feel,42.0,23.0,15.0,4.0,0.548,0.357
+in,Suggestions and potential,Ideas,100.0,78.0,11.0,11.0,0.78,0.11
+in,Too hard to enjoy,Levels and difficulty,99.0,20.0,76.0,3.0,0.202,0.768
+in,Too many ads,Ads and money,638.0,29.0,580.0,29.0,0.045,0.909
+in,Tricky jumps and physics glitches,Gameplay and design,96.0,44.0,42.0,10.0,0.458,0.438
+in,Uninstalled it,General reaction,68.0,5.0,63.0,0.0,0.074,0.926
+in,Updates,Bugs and tech,178.0,48.0,120.0,10.0,0.27,0.674
+in,"Waiting, lives and wasted time",Ads and money,35.0,11.0,19.0,5.0,0.314,0.543
+in,Wants more levels,Levels and difficulty,247.0,157.0,66.0,24.0,0.636,0.267
+jp,"Account, login and support",Bugs and tech,28.0,4.0,21.0,3.0,0.143,0.75
+jp,Addictive,Fun and feel,56.0,50.0,4.0,2.0,0.893,0.071
+jp,Ads interrupt play,Ads and money,171.0,14.0,132.0,25.0,0.082,0.772
+jp,An ad after every level,Ads and money,89.0,13.0,65.0,11.0,0.146,0.73
+jp,Boring,Fun and feel,24.0,0.0,22.0,2.0,0.0,0.917
+jp,Challenging in a good way,Levels and difficulty,72.0,65.0,2.0,5.0,0.903,0.028
+jp,"Childhood game, good for kids",Nostalgia,12.0,9.0,2.0,1.0,0.75,0.167
+jp,"Coins, rewards and pay-to-win",Ads and money,77.0,26.0,45.0,6.0,0.338,0.584
+jp,Controls and buttons,Gameplay and design,55.0,8.0,41.0,6.0,0.145,0.745
+jp,"Crashes, freezes, won't load",Bugs and tech,201.0,5.0,177.0,19.0,0.025,0.881
+jp,Easy to pick up,Levels and difficulty,96.0,83.0,8.0,5.0,0.865,0.083
+jp,Few or no ads,Ads and money,125.0,76.0,33.0,16.0,0.608,0.264
+jp,"Finished, stuck or lost progress",Levels and difficulty,115.0,46.0,49.0,20.0,0.4,0.426
+jp,Forced to watch ads,Ads and money,323.0,56.0,215.0,52.0,0.173,0.666
+jp,Fun to play,Fun and feel,659.0,616.0,2.0,41.0,0.935,0.003
+jp,"Fun, but too many ads",Ads and money,192.0,83.0,52.0,57.0,0.432,0.271
+jp,General dislike,General reaction,651.0,128.0,473.0,50.0,0.197,0.727
+jp,General praise,General reaction,1188.0,1080.0,64.0,44.0,0.909,0.054
+jp,Graphics and colours,Gameplay and design,33.0,30.0,3.0,0.0,0.909,0.091
+jp,"Greedy, a money grab",Ads and money,76.0,10.0,63.0,3.0,0.132,0.829
+jp,Hard levels,Levels and difficulty,61.0,14.0,24.0,23.0,0.23,0.393
+jp,Lag and slowdown,Bugs and tech,39.0,8.0,24.0,7.0,0.205,0.615
+jp,Music and songs,Gameplay and design,214.0,155.0,29.0,30.0,0.724,0.136
+jp,Names other ball games,Comparisons,156.0,106.0,29.0,21.0,0.679,0.186
+jp,"Nostalgia, 'it used to be better'",Nostalgia,223.0,113.0,88.0,22.0,0.507,0.395
+jp,Offline play and internet,Offline and internet,136.0,106.0,15.0,15.0,0.779,0.11
+jp,"Paid to remove ads, still see ads",Ads and money,97.0,13.0,81.0,3.0,0.134,0.835
+jp,Phone and device problems,Bugs and tech,70.0,18.0,46.0,6.0,0.257,0.657
+jp,Playing for years,Nostalgia,35.0,30.0,4.0,1.0,0.857,0.114
+jp,"Price, paid version and refunds",Ads and money,55.0,16.0,35.0,4.0,0.291,0.636
+jp,Relaxing way to pass time,Fun and feel,159.0,142.0,6.0,11.0,0.893,0.038
+jp,Repetitive,Fun and feel,70.0,16.0,40.0,14.0,0.229,0.571
+jp,Short or unclear comments,General reaction,2254.0,1726.0,460.0,68.0,0.766,0.204
+jp,"Simple, creative design",Gameplay and design,62.0,55.0,1.0,6.0,0.887,0.016
+jp,Star ratings and verdicts,General reaction,202.0,121.0,54.0,27.0,0.599,0.267
+jp,Stress relief or frustration,Fun and feel,86.0,50.0,26.0,10.0,0.581,0.302
+jp,Suggestions and potential,Ideas,205.0,162.0,16.0,27.0,0.79,0.078
+jp,Too hard to enjoy,Levels and difficulty,247.0,55.0,130.0,62.0,0.223,0.526
+jp,Too many ads,Ads and money,1157.0,142.0,864.0,151.0,0.123,0.747
+jp,Tricky jumps and physics glitches,Gameplay and design,241.0,75.0,117.0,49.0,0.311,0.485
+jp,Uninstalled it,General reaction,16.0,0.0,16.0,0.0,0.0,1.0
+jp,Updates,Bugs and tech,176.0,65.0,86.0,25.0,0.369,0.489
+jp,"Waiting, lives and wasted time",Ads and money,169.0,52.0,82.0,35.0,0.308,0.485
+jp,Wants more levels,Levels and difficulty,76.0,52.0,8.0,16.0,0.684,0.105
+ru,"Account, login and support",Bugs and tech,41.0,7.0,34.0,0.0,0.171,0.829
+ru,Addictive,Fun and feel,47.0,26.0,19.0,2.0,0.553,0.404
+ru,Ads interrupt play,Ads and money,238.0,8.0,205.0,25.0,0.034,0.861
+ru,An ad after every level,Ads and money,278.0,4.0,268.0,6.0,0.014,0.964
+ru,Boring,Fun and feel,56.0,4.0,40.0,12.0,0.071,0.714
+ru,Challenging in a good way,Levels and difficulty,31.0,23.0,6.0,2.0,0.742,0.194
+ru,"Childhood game, good for kids",Nostalgia,125.0,101.0,22.0,2.0,0.808,0.176
+ru,"Coins, rewards and pay-to-win",Ads and money,173.0,63.0,101.0,9.0,0.364,0.584
+ru,Controls and buttons,Gameplay and design,94.0,29.0,57.0,8.0,0.309,0.606
+ru,"Crashes, freezes, won't load",Bugs and tech,183.0,6.0,169.0,8.0,0.033,0.923
+ru,Easy to pick up,Levels and difficulty,69.0,51.0,9.0,9.0,0.739,0.13
+ru,Few or no ads,Ads and money,123.0,51.0,57.0,15.0,0.415,0.463
+ru,"Finished, stuck or lost progress",Levels and difficulty,373.0,142.0,203.0,28.0,0.381,0.544
+ru,Forced to watch ads,Ads and money,352.0,54.0,280.0,18.0,0.153,0.795
+ru,Fun to play,Fun and feel,203.0,203.0,0.0,0.0,1.0,0.0
+ru,"Fun, but too many ads",Ads and money,291.0,104.0,118.0,69.0,0.357,0.405
+ru,General dislike,General reaction,1328.0,193.0,1090.0,45.0,0.145,0.821
+ru,General praise,General reaction,1885.0,1715.0,134.0,36.0,0.91,0.071
+ru,Graphics and colours,Gameplay and design,88.0,62.0,22.0,4.0,0.705,0.25
+ru,"Greedy, a money grab",Ads and money,174.0,28.0,142.0,4.0,0.161,0.816
+ru,Hard levels,Levels and difficulty,180.0,59.0,81.0,40.0,0.328,0.45
+ru,Lag and slowdown,Bugs and tech,60.0,12.0,39.0,9.0,0.2,0.65
+ru,Music and songs,Gameplay and design,197.0,144.0,40.0,13.0,0.731,0.203
+ru,Names other ball games,Comparisons,275.0,222.0,44.0,9.0,0.807,0.16
+ru,"Nostalgia, 'it used to be better'",Nostalgia,265.0,143.0,109.0,13.0,0.54,0.411
+ru,Offline play and internet,Offline and internet,217.0,118.0,88.0,11.0,0.544,0.406
+ru,"Paid to remove ads, still see ads",Ads and money,83.0,7.0,75.0,1.0,0.084,0.904
+ru,Phone and device problems,Bugs and tech,305.0,90.0,200.0,15.0,0.295,0.656
+ru,Playing for years,Nostalgia,127.0,110.0,13.0,4.0,0.866,0.102
+ru,"Price, paid version and refunds",Ads and money,54.0,26.0,26.0,2.0,0.481,0.481
+ru,Relaxing way to pass time,Fun and feel,116.0,65.0,43.0,8.0,0.56,0.371
+ru,Repetitive,Fun and feel,197.0,24.0,149.0,24.0,0.122,0.756
+ru,Short or unclear comments,General reaction,3730.0,2783.0,916.0,31.0,0.746,0.246
+ru,"Simple, creative design",Gameplay and design,160.0,150.0,8.0,2.0,0.938,0.05
+ru,Star ratings and verdicts,General reaction,516.0,319.0,160.0,37.0,0.618,0.31
+ru,Stress relief or frustration,Fun and feel,63.0,41.0,21.0,1.0,0.651,0.333
+ru,Suggestions and potential,Ideas,428.0,327.0,74.0,27.0,0.764,0.173
+ru,Too hard to enjoy,Levels and difficulty,750.0,152.0,512.0,86.0,0.203,0.683
+ru,Too many ads,Ads and money,2020.0,130.0,1797.0,93.0,0.064,0.89
+ru,Tricky jumps and physics glitches,Gameplay and design,337.0,83.0,212.0,42.0,0.246,0.629
+ru,Uninstalled it,General reaction,54.0,7.0,47.0,0.0,0.13,0.87
+ru,Updates,Bugs and tech,286.0,82.0,180.0,24.0,0.287,0.629
+ru,"Waiting, lives and wasted time",Ads and money,154.0,47.0,93.0,14.0,0.305,0.604
+ru,Wants more levels,Levels and difficulty,353.0,242.0,71.0,40.0,0.686,0.201
+us,"Account, login and support",Bugs and tech,125.0,27.0,95.0,3.0,0.216,0.76
+us,Addictive,Fun and feel,298.0,262.0,21.0,15.0,0.879,0.07
+us,Ads interrupt play,Ads and money,545.0,10.0,507.0,28.0,0.018,0.93
+us,An ad after every level,Ads and money,514.0,8.0,479.0,27.0,0.016,0.932
+us,Boring,Fun and feel,135.0,12.0,90.0,33.0,0.089,0.667
+us,Challenging in a good way,Levels and difficulty,228.0,197.0,14.0,17.0,0.864,0.061
+us,"Childhood game, good for kids",Nostalgia,181.0,144.0,34.0,3.0,0.796,0.188
+us,"Coins, rewards and pay-to-win",Ads and money,248.0,75.0,162.0,11.0,0.302,0.653
+us,Controls and buttons,Gameplay and design,241.0,65.0,140.0,36.0,0.27,0.581
+us,"Crashes, freezes, won't load",Bugs and tech,613.0,43.0,519.0,51.0,0.07,0.847
+us,Easy to pick up,Levels and difficulty,166.0,118.0,30.0,18.0,0.711,0.181
+us,Few or no ads,Ads and money,419.0,177.0,172.0,70.0,0.422,0.411
+us,"Finished, stuck or lost progress",Levels and difficulty,549.0,251.0,255.0,43.0,0.457,0.464
+us,Forced to watch ads,Ads and money,382.0,27.0,320.0,35.0,0.071,0.838
+us,Fun to play,Fun and feel,1782.0,1731.0,21.0,30.0,0.971,0.012
+us,"Fun, but too many ads",Ads and money,473.0,173.0,227.0,73.0,0.366,0.48
+us,General dislike,General reaction,1976.0,354.0,1526.0,96.0,0.179,0.772
+us,General praise,General reaction,5113.0,4761.0,182.0,170.0,0.931,0.036
+us,Graphics and colours,Gameplay and design,242.0,188.0,38.0,16.0,0.777,0.157
+us,"Greedy, a money grab",Ads and money,293.0,59.0,223.0,11.0,0.201,0.761
+us,Hard levels,Levels and difficulty,253.0,87.0,79.0,87.0,0.344,0.312
+us,Lag and slowdown,Bugs and tech,135.0,28.0,80.0,27.0,0.207,0.593
+us,Music and songs,Gameplay and design,325.0,233.0,69.0,23.0,0.717,0.212
+us,Names other ball games,Comparisons,839.0,659.0,126.0,54.0,0.785,0.15
+us,"Nostalgia, 'it used to be better'",Nostalgia,461.0,303.0,121.0,37.0,0.657,0.262
+us,Offline play and internet,Offline and internet,500.0,350.0,125.0,25.0,0.7,0.25
+us,"Paid to remove ads, still see ads",Ads and money,377.0,39.0,313.0,25.0,0.103,0.83
+us,Phone and device problems,Bugs and tech,164.0,48.0,102.0,14.0,0.293,0.622
+us,Playing for years,Nostalgia,600.0,524.0,68.0,8.0,0.873,0.113
+us,"Price, paid version and refunds",Ads and money,199.0,86.0,103.0,10.0,0.432,0.518
+us,Relaxing way to pass time,Fun and feel,250.0,199.0,44.0,7.0,0.796,0.176
+us,Repetitive,Fun and feel,307.0,45.0,223.0,39.0,0.147,0.726
+us,Short or unclear comments,General reaction,2673.0,2299.0,330.0,44.0,0.86,0.123
+us,"Simple, creative design",Gameplay and design,298.0,280.0,12.0,6.0,0.94,0.04
+us,Star ratings and verdicts,General reaction,1266.0,830.0,347.0,89.0,0.656,0.274
+us,Stress relief or frustration,Fun and feel,195.0,121.0,61.0,13.0,0.621,0.313
+us,Suggestions and potential,Ideas,608.0,422.0,88.0,98.0,0.694,0.145
+us,Too hard to enjoy,Levels and difficulty,573.0,113.0,395.0,65.0,0.197,0.689
+us,Too many ads,Ads and money,2798.0,177.0,2425.0,196.0,0.063,0.867
+us,Tricky jumps and physics glitches,Gameplay and design,435.0,169.0,182.0,84.0,0.389,0.418
+us,Uninstalled it,General reaction,297.0,23.0,260.0,14.0,0.077,0.875
+us,Updates,Bugs and tech,581.0,179.0,343.0,59.0,0.308,0.59
+us,"Waiting, lives and wasted time",Ads and money,212.0,64.0,128.0,20.0,0.302,0.604
+us,Wants more levels,Levels and difficulty,758.0,513.0,151.0,94.0,0.677,0.199
